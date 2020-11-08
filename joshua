@@ -1,0 +1,44 @@
+#!/bin/bash
+# Licensed to the Apache Software Foundation (ASF) under one or more
+# contributor license agreements.  See the NOTICE file distributed with
+# this work for additional information regarding copyright ownership.
+# The ASF licenses this file to You under the Apache License, Version 2.0
+# (the "License"); you may not use this file except in compliance with
+# the License.  You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+# Joshua decoder invocation script.
+# 
+# This script takes care of passing arguments to Java and to the
+# Joshua decoder. It changes to the current directory so that paths in 
+# the config file are relative to the current directory. Usage:
+#
+# joshua [-m memory] [Joshua arguments]
+#
+# The default amount of memory is 4gb.
+
+NUM_ARGS=0
+E_OPTERROR=1
+
+## memory usage; default is 4 GB
+mem=16g
+
+if [[ $1 == "-m" ]]; then
+    mem=$2
+    shift
+    shift
+fi
+
+set -u
+
+bundledir=$(dirname $0)
+cd $bundledir   # relative paths are now safe....
+
+exec java -mx${mem}     -Dfile.encoding=utf8     -Djava.library.path=./lib     -cp ./target/joshua-*-jar-with-dependencies.jar     org.apache.joshua.decoder.JoshuaDecoder -c joshua.config -v 0 "$@"

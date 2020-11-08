@@ -1,0 +1,5 @@
+# start in server mode, answering web queries.
+
+./joshua -server-port 5674 -server-type http
+
+# Then open "web/index.html?port=5674" in your browser
