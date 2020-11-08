@@ -1,0 +1,1874 @@
+[GOAL] ||| <s> ||| <s> ||| 0
+[GOAL] ||| [GOAL,1] [SBARQ\WHADJP,2] ||| [GOAL,1] [SBARQ\WHADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [X/VBP,2] ||| [GOAL,1] [X/VBP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/INTJ,2] ||| [GOAL,1] [VP/INTJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\PRP$,2] ||| [GOAL,1] [SQ\PRP$,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/OOV,2] ||| [GOAL,1] [ADJP/OOV,2] ||| -1
+[GOAL] ||| [GOAL,1] [X\NNS,2] ||| [GOAL,1] [X\NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [NX\VBN,2] ||| [GOAL,1] [NX\VBN,2] ||| -1
+[GOAL] ||| [GOAL,1] [X\NNP,2] ||| [GOAL,1] [X\NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\DT,2] ||| [GOAL,1] [VP\DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV/VB,2] ||| [GOAL,1] [SINV/VB,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP/NNS,2] ||| [GOAL,1] [QP/NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [NX/PP,2] ||| [GOAL,1] [NX/PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\CD,2] ||| [GOAL,1] [FRAG\CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\CC,2] ||| [GOAL,1] [FRAG\CC,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP\ADVP,2] ||| [GOAL,1] [ADJP\ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/S,2] ||| [GOAL,1] [PP/S,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\CD,2] ||| [GOAL,1] [VP\CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [NAC/NNS,2] ||| [GOAL,1] [NAC/NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\CC,2] ||| [GOAL,1] [VP\CC,2] ||| -1
+[GOAL] ||| [GOAL,1] [$,2] ||| [GOAL,1] [$,2] ||| -1
+[GOAL] ||| [GOAL,1] [NAC/NNP,2] ||| [GOAL,1] [NAC/NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [CONJP\RB,2] ||| [GOAL,1] [CONJP\RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP\RB,2] ||| [GOAL,1] [UCP\RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\SQ,2] ||| [GOAL,1] [SQ\SQ,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRN/ADVP,2] ||| [GOAL,1] [PRN/ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP/.,2] ||| [GOAL,1] [UCP/.,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/X,2] ||| [GOAL,1] [PP/X,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\DT,2] ||| [GOAL,1] [FRAG\DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [.,2] ||| [GOAL,1] [.,2] ||| -1
+[GOAL] ||| [GOAL,1] [X/.,2] ||| [GOAL,1] [X/.,2] ||| -1
+[GOAL] ||| [GOAL,1] [:,2] ||| [GOAL,1] [:,2] ||| -1
+[GOAL] ||| [GOAL,1] [NAC/PRN,2] ||| [GOAL,1] [NAC/PRN,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/'',2] ||| [GOAL,1] [NP/'',2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV\MD,2] ||| [GOAL,1] [SINV\MD,2] ||| -1
+[GOAL] ||| [GOAL,1] [X/:,2] ||| [GOAL,1] [X/:,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\ADJP,2] ||| [GOAL,1] [S\ADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP\WHNP,2] ||| [GOAL,1] [WHNP\WHNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP/VBG,2] ||| [GOAL,1] [UCP/VBG,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/SBAR,2] ||| [GOAL,1] [SQ/SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/SINV,2] ||| [GOAL,1] [VP/SINV,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\WHADJP,2] ||| [GOAL,1] [SBAR\WHADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\VP,2] ||| [GOAL,1] [SQ\VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP/VBN,2] ||| [GOAL,1] [UCP/VBN,2] ||| -1
+[GOAL] ||| [GOAL,1] [S,2] ||| [GOAL,1] [S,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\JJR,2] ||| [GOAL,1] [NP\JJR,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV\PP,2] ||| [GOAL,1] [SINV\PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NX/NP,2] ||| [GOAL,1] [NX/NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/JJ,2] ||| [GOAL,1] [VP/JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\JJS,2] ||| [GOAL,1] [NP\JJS,2] ||| -1
+[GOAL] ||| [GOAL,1] [NX/NN,2] ||| [GOAL,1] [NX/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [X,2] ||| [GOAL,1] [X,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/SYM,2] ||| [GOAL,1] [ADJP/SYM,2] ||| -1
+[GOAL] ||| [GOAL,1] [NX/NX,2] ||| [GOAL,1] [NX/NX,2] ||| -1
+[GOAL] ||| [GOAL,1] [X/S,2] ||| [GOAL,1] [X/S,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\VB,2] ||| [GOAL,1] [SQ\VB,2] ||| -1
+[GOAL] ||| [GOAL,1] [CC,2] ||| [GOAL,1] [CC,2] ||| -1
+[GOAL] ||| [GOAL,1] [CD,2] ||| [GOAL,1] [CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV/VP,2] ||| [GOAL,1] [SINV/VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\UH,2] ||| [GOAL,1] [SQ\UH,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/NP,2] ||| [GOAL,1] [FRAG/NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [WP$,2] ||| [GOAL,1] [WP$,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/NN,2] ||| [GOAL,1] [FRAG/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP\NNP,2] ||| [GOAL,1] [UCP\NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/RBS,2] ||| [GOAL,1] [VP/RBS,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/ADJP,2] ||| [GOAL,1] [PP/ADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/RBR,2] ||| [GOAL,1] [VP/RBR,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/SBARQ,2] ||| [GOAL,1] [NP/SBARQ,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/IN,2] ||| [GOAL,1] [VP/IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP\PP,2] ||| [GOAL,1] [UCP\PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [INTJ/.,2] ||| [GOAL,1] [INTJ/.,2] ||| -1
+[GOAL] ||| [GOAL,1] [INTJ/:,2] ||| [GOAL,1] [INTJ/:,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHADVP\WRB,2] ||| [GOAL,1] [WHADVP\WRB,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP/VP,2] ||| [GOAL,1] [UCP/VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\PP,2] ||| [GOAL,1] [SQ\PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV\IN,2] ||| [GOAL,1] [SINV\IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [DT,2] ||| [GOAL,1] [DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV\JJ,2] ||| [GOAL,1] [SINV\JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\VBZ,2] ||| [GOAL,1] [S\VBZ,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\SBARQ,2] ||| [GOAL,1] [SBARQ\SBARQ,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/.,2] ||| [GOAL,1] [SQ/.,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/WP,2] ||| [GOAL,1] [SQ/WP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/VBN,2] ||| [GOAL,1] [ADJP/VBN,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/POS,2] ||| [GOAL,1] [PP/POS,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\VBN,2] ||| [GOAL,1] [S\VBN,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/VBP,2] ||| [GOAL,1] [ADJP/VBP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/FW,2] ||| [GOAL,1] [VP/FW,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\VBP,2] ||| [GOAL,1] [S\VBP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/VBD,2] ||| [GOAL,1] [ADJP/VBD,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/VBG,2] ||| [GOAL,1] [ADJP/VBG,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\VBG,2] ||| [GOAL,1] [S\VBG,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/ADJP,2] ||| [GOAL,1] [S/ADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/JJR,2] ||| [GOAL,1] [ADVP/JJR,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/RBR,2] ||| [GOAL,1] [SBAR/RBR,2] ||| -1
+[GOAL] ||| [GOAL,1] [EX,2] ||| [GOAL,1] [EX,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\VBD,2] ||| [GOAL,1] [S\VBD,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/JJS,2] ||| [GOAL,1] [ADVP/JJS,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/FRAG,2] ||| [GOAL,1] [VP/FRAG,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP/WDT,2] ||| [GOAL,1] [WHNP/WDT,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\NP,2] ||| [GOAL,1] [SQ\NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV/PP,2] ||| [GOAL,1] [SINV/PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/ADJP,2] ||| [GOAL,1] [ADJP/ADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP\NN,2] ||| [GOAL,1] [UCP\NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/VP,2] ||| [GOAL,1] [SQ/VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP\NP,2] ||| [GOAL,1] [UCP\NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRN/COMMA,2] ||| [GOAL,1] [PRN/COMMA,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/ADVP,2] ||| [GOAL,1] [VP/ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/S,2] ||| [GOAL,1] [SQ/S,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\:,2] ||| [GOAL,1] [FRAG\:,2] ||| -1
+[GOAL] ||| [GOAL,1] [WRB,2] ||| [GOAL,1] [WRB,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/EX,2] ||| [GOAL,1] [VP/EX,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/VBN,2] ||| [GOAL,1] [NP/VBN,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/VBP,2] ||| [GOAL,1] [NP/VBP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/VBZ,2] ||| [GOAL,1] [ADJP/VBZ,2] ||| -1
+[GOAL] ||| [GOAL,1] [FW,2] ||| [GOAL,1] [FW,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/VBD,2] ||| [GOAL,1] [NP/VBD,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\NNS,2] ||| [GOAL,1] [NP\NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/VBG,2] ||| [GOAL,1] [NP/VBG,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\PRP,2] ||| [GOAL,1] [NP\PRP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\RB,2] ||| [GOAL,1] [SQ\RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\NNP,2] ||| [GOAL,1] [NP\NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHADVP,2] ||| [GOAL,1] [WHADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/DT,2] ||| [GOAL,1] [VP/DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [NX\JJ,2] ||| [GOAL,1] [NX\JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP/RB,2] ||| [GOAL,1] [WHNP/RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV/RB,2] ||| [GOAL,1] [SINV/RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/-RRB-,2] ||| [GOAL,1] [NP/-RRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/JJ,2] ||| [GOAL,1] [FRAG/JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP\-LRB-,2] ||| [GOAL,1] [PP\-LRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/-RRB-,2] ||| [GOAL,1] [VP/-RRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\CONJP,2] ||| [GOAL,1] [NP\CONJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP\NNP,2] ||| [GOAL,1] [ADJP\NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NAC/VP,2] ||| [GOAL,1] [NAC/VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/VBZ,2] ||| [GOAL,1] [NP/VBZ,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\X,2] ||| [GOAL,1] [FRAG\X,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/PRN,2] ||| [GOAL,1] [PP/PRN,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\S,2] ||| [GOAL,1] [FRAG\S,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\WDT,2] ||| [GOAL,1] [SBAR\WDT,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/PRP,2] ||| [GOAL,1] [PP/PRP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/DT,2] ||| [GOAL,1] [ADJP/DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP\CD,2] ||| [GOAL,1] [WHNP\CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\FRAG,2] ||| [GOAL,1] [S\FRAG,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP/NNS,2] ||| [GOAL,1] [WHNP/NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP/PRP,2] ||| [GOAL,1] [WHNP/PRP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/TO,2] ||| [GOAL,1] [VP/TO,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\MD,2] ||| [GOAL,1] [VP\MD,2] ||| -1
+[GOAL] ||| [GOAL,1] [RRC/PP,2] ||| [GOAL,1] [RRC/PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ,2] ||| [GOAL,1] [SBARQ,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\NNS,2] ||| [GOAL,1] [VP\NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [IN,2] ||| [GOAL,1] [IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/CD,2] ||| [GOAL,1] [ADJP/CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP\DT,2] ||| [GOAL,1] [WHNP\DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/SQ,2] ||| [GOAL,1] [VP/SQ,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/ADVP,2] ||| [GOAL,1] [ADJP/ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/PRP$,2] ||| [GOAL,1] [PP/PRP$,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHADJP/JJ,2] ||| [GOAL,1] [WHADJP/JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\NNP,2] ||| [GOAL,1] [VP\NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/OOV,2] ||| [GOAL,1] [NP/OOV,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ/DT,2] ||| [GOAL,1] [SBARQ/DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [JJ,2] ||| [GOAL,1] [JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/NNPS,2] ||| [GOAL,1] [PP/NNPS,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP\RBR,2] ||| [GOAL,1] [ADVP\RBR,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/RB,2] ||| [GOAL,1] [VP/RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/SYM,2] ||| [GOAL,1] [NP/SYM,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP\JJS,2] ||| [GOAL,1] [ADJP\JJS,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV\VBN,2] ||| [GOAL,1] [SINV\VBN,2] ||| -1
+[GOAL] ||| [GOAL,1] [X/CD,2] ||| [GOAL,1] [X/CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/RP,2] ||| [GOAL,1] [VP/RP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV\VBZ,2] ||| [GOAL,1] [SINV\VBZ,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\NAC,2] ||| [GOAL,1] [S\NAC,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\WRB,2] ||| [GOAL,1] [SBAR\WRB,2] ||| -1
+[GOAL] ||| [GOAL,1] [COMMA,2] ||| [GOAL,1] [COMMA,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/-RRB-,2] ||| [GOAL,1] [FRAG/-RRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/FRAG,2] ||| [GOAL,1] [ADJP/FRAG,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/VP,2] ||| [GOAL,1] [FRAG/VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\CONJP,2] ||| [GOAL,1] [FRAG\CONJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\IN,2] ||| [GOAL,1] [VP\IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [NX\NN,2] ||| [GOAL,1] [NX\NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/VBZ,2] ||| [GOAL,1] [VP/VBZ,2] ||| -1
+[GOAL] ||| [GOAL,1] [NX\NX,2] ||| [GOAL,1] [NX\NX,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\PDT,2] ||| [GOAL,1] [S\PDT,2] ||| -1
+[GOAL] ||| [GOAL,1] [NX/VP,2] ||| [GOAL,1] [NX/VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/VBP,2] ||| [GOAL,1] [VP/VBP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP\JJR,2] ||| [GOAL,1] [ADJP\JJR,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/VBN,2] ||| [GOAL,1] [VP/VBN,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/QP,2] ||| [GOAL,1] [VP/QP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV\VBG,2] ||| [GOAL,1] [SINV\VBG,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP/NP,2] ||| [GOAL,1] [WHNP/NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP/NN,2] ||| [GOAL,1] [WHNP/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/VBG,2] ||| [GOAL,1] [VP/VBG,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV/NN,2] ||| [GOAL,1] [SINV/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV/NP,2] ||| [GOAL,1] [SINV/NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\NP,2] ||| [GOAL,1] [FRAG\NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/VBD,2] ||| [GOAL,1] [VP/VBD,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\NN,2] ||| [GOAL,1] [FRAG\NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [INTJ\NNP,2] ||| [GOAL,1] [INTJ\NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP\$,2] ||| [GOAL,1] [QP\$,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/-RRB-,2] ||| [GOAL,1] [ADJP/-RRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [NAC/COMMA,2] ||| [GOAL,1] [NAC/COMMA,2] ||| -1
+[GOAL] ||| [GOAL,1] [LS,2] ||| [GOAL,1] [LS,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP\ADVP,2] ||| [GOAL,1] [UCP\ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP/JJR,2] ||| [GOAL,1] [QP/JJR,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/PP,2] ||| [GOAL,1] [VP/PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [LST\-LRB-,2] ||| [GOAL,1] [LST\-LRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [MD,2] ||| [GOAL,1] [MD,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP\SYM,2] ||| [GOAL,1] [QP\SYM,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/WRB,2] ||| [GOAL,1] [S/WRB,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\RBR,2] ||| [GOAL,1] [S\RBR,2] ||| -1
+[GOAL] ||| [GOAL,1] [INTJ/VBZ,2] ||| [GOAL,1] [INTJ/VBZ,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/S,2] ||| [GOAL,1] [SBAR/S,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/X,2] ||| [GOAL,1] [SBAR/X,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ/S,2] ||| [GOAL,1] [SBARQ/S,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/PP,2] ||| [GOAL,1] [FRAG/PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP/ADVP,2] ||| [GOAL,1] [UCP/ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP\VP,2] ||| [GOAL,1] [UCP\VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\WP$,2] ||| [GOAL,1] [SBAR\WP$,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/VBP,2] ||| [GOAL,1] [FRAG/VBP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NN,2] ||| [GOAL,1] [NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [X/FW,2] ||| [GOAL,1] [X/FW,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ/SBARQ,2] ||| [GOAL,1] [SBARQ/SBARQ,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP,2] ||| [GOAL,1] [NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ/:,2] ||| [GOAL,1] [SBARQ/:,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/VBG,2] ||| [GOAL,1] [SQ/VBG,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRN\-LRB-,2] ||| [GOAL,1] [PRN\-LRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [NX,2] ||| [GOAL,1] [NX,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP/S,2] ||| [GOAL,1] [UCP/S,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/COMMA,2] ||| [GOAL,1] [SBAR/COMMA,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ/.,2] ||| [GOAL,1] [SBARQ/.,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/VBZ,2] ||| [GOAL,1] [SQ/VBZ,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/NN,2] ||| [GOAL,1] [VP/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/NP,2] ||| [GOAL,1] [VP/NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\IN,2] ||| [GOAL,1] [FRAG\IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [RRC/NN,2] ||| [GOAL,1] [RRC/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/VBP,2] ||| [GOAL,1] [SQ/VBP,2] ||| -1
+[GOAL] ||| [GOAL,1] [RRC/NP,2] ||| [GOAL,1] [RRC/NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/VBN,2] ||| [GOAL,1] [SQ/VBN,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/NX,2] ||| [GOAL,1] [VP/NX,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\NNS,2] ||| [GOAL,1] [FRAG\NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\NNP,2] ||| [GOAL,1] [FRAG\NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\PRP,2] ||| [GOAL,1] [FRAG\PRP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/MD,2] ||| [GOAL,1] [VP/MD,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\PRN,2] ||| [GOAL,1] [FRAG\PRN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV\CC,2] ||| [GOAL,1] [SINV\CC,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV/JJ,2] ||| [GOAL,1] [SINV/JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/RB,2] ||| [GOAL,1] [FRAG/RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/.,2] ||| [GOAL,1] [SBAR/.,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\JJ,2] ||| [GOAL,1] [FRAG\JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP,2] ||| [GOAL,1] [PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP\PDT,2] ||| [GOAL,1] [ADVP\PDT,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/:,2] ||| [GOAL,1] [VP/:,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/ADVP,2] ||| [GOAL,1] [S/ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ/NN,2] ||| [GOAL,1] [SBARQ/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\UH,2] ||| [GOAL,1] [VP\UH,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/S,2] ||| [GOAL,1] [VP/S,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP,2] ||| [GOAL,1] [QP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/NNP,2] ||| [GOAL,1] [SBAR/NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/NNS,2] ||| [GOAL,1] [SBAR/NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [NAC/-RRB-,2] ||| [GOAL,1] [NAC/-RRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP\VBG,2] ||| [GOAL,1] [PP\VBG,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/COMMA,2] ||| [GOAL,1] [ADJP/COMMA,2] ||| -1
+[GOAL] ||| [GOAL,1] [RB,2] ||| [GOAL,1] [RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/S,2] ||| [GOAL,1] [ADVP/S,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/.,2] ||| [GOAL,1] [VP/.,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\RB,2] ||| [GOAL,1] [SBAR\RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\WHNP,2] ||| [GOAL,1] [SBAR\WHNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\S,2] ||| [GOAL,1] [SBARQ\S,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\TO,2] ||| [GOAL,1] [VP\TO,2] ||| -1
+[GOAL] ||| [GOAL,1] [RP,2] ||| [GOAL,1] [RP,2] ||| -1
+[GOAL] ||| [GOAL,1] [X\WRB,2] ||| [GOAL,1] [X\WRB,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/SYM,2] ||| [GOAL,1] [S/SYM,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/CC,2] ||| [GOAL,1] [PP/CC,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\QP,2] ||| [GOAL,1] [SBAR\QP,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP/PDT,2] ||| [GOAL,1] [QP/PDT,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/COMMA,2] ||| [GOAL,1] [FRAG/COMMA,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\DT,2] ||| [GOAL,1] [SBARQ\DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [X\CD,2] ||| [GOAL,1] [X\CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP\WRB,2] ||| [GOAL,1] [WHNP\WRB,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP\VBN,2] ||| [GOAL,1] [PP\VBN,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\WHNP,2] ||| [GOAL,1] [FRAG\WHNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/SBAR,2] ||| [GOAL,1] [PP/SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/CD,2] ||| [GOAL,1] [PP/CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/PRN,2] ||| [GOAL,1] [SBAR/PRN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ,2] ||| [GOAL,1] [SQ,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/PRP,2] ||| [GOAL,1] [SBAR/PRP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRN\:,2] ||| [GOAL,1] [PRN\:,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/X,2] ||| [GOAL,1] [VP/X,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/-RRB-,2] ||| [GOAL,1] [PP/-RRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/.,2] ||| [GOAL,1] [ADVP/.,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\SBAR,2] ||| [GOAL,1] [S\SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\WDT,2] ||| [GOAL,1] [FRAG\WDT,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\RB,2] ||| [GOAL,1] [VP\RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/DT,2] ||| [GOAL,1] [PP/DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [OOV,2] ||| [GOAL,1] [OOV,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/FRAG,2] ||| [GOAL,1] [S/FRAG,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/WP,2] ||| [GOAL,1] [SBAR/WP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\CC,2] ||| [GOAL,1] [SBARQ\CC,2] ||| -1
+[GOAL] ||| [GOAL,1] [TO,2] ||| [GOAL,1] [TO,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\CD,2] ||| [GOAL,1] [SBARQ\CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [X/JJ,2] ||| [GOAL,1] [X/JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\PP,2] ||| [GOAL,1] [VP\PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHADVP/RB,2] ||| [GOAL,1] [WHADVP/RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/PDT,2] ||| [GOAL,1] [NP/PDT,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP\WP,2] ||| [GOAL,1] [WHNP\WP,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP\WP$,2] ||| [GOAL,1] [WHNP\WP$,2] ||| -1
+[GOAL] ||| [GOAL,1] [UH,2] ||| [GOAL,1] [UH,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/NNPS,2] ||| [GOAL,1] [NP/NNPS,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/VP,2] ||| [GOAL,1] [SBAR/VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV/SBAR,2] ||| [GOAL,1] [SINV/SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/SBAR,2] ||| [GOAL,1] [ADJP/SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\NP,2] ||| [GOAL,1] [SBAR\NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\NN,2] ||| [GOAL,1] [SBAR\NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/VB,2] ||| [GOAL,1] [SBAR/VB,2] ||| -1
+[GOAL] ||| [GOAL,1] [SYM,2] ||| [GOAL,1] [SYM,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRN/-RRB-,2] ||| [GOAL,1] [PRN/-RRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\PRP$,2] ||| [GOAL,1] [FRAG\PRP$,2] ||| -1
+[GOAL] ||| [GOAL,1] [VB,2] ||| [GOAL,1] [VB,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/WP,2] ||| [GOAL,1] [VP/WP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/NAC,2] ||| [GOAL,1] [NP/NAC,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP,2] ||| [GOAL,1] [VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/SBAR,2] ||| [GOAL,1] [ADVP/SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [X\DT,2] ||| [GOAL,1] [X\DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/COMMA,2] ||| [GOAL,1] [NP/COMMA,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/VB,2] ||| [GOAL,1] [VP/VB,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\NN,2] ||| [GOAL,1] [VP\NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [NX/NNP,2] ||| [GOAL,1] [NX/NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\NP,2] ||| [GOAL,1] [VP\NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NX/NNS,2] ||| [GOAL,1] [NX/NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP/CD,2] ||| [GOAL,1] [QP/CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/VP,2] ||| [GOAL,1] [VP/VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NX/PRN,2] ||| [GOAL,1] [NX/PRN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/TO,2] ||| [GOAL,1] [SBAR/TO,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\VBD,2] ||| [GOAL,1] [SQ\VBD,2] ||| -1
+[GOAL] ||| [GOAL,1] [WP,2] ||| [GOAL,1] [WP,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\$,2] ||| [GOAL,1] [S\$,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\VBP,2] ||| [GOAL,1] [SQ\VBP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR,2] ||| [GOAL,1] [SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/UH,2] ||| [GOAL,1] [VP/UH,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/SYM,2] ||| [GOAL,1] [VP/SYM,2] ||| -1
+[GOAL] ||| [GOAL,1] [X/SBAR,2] ||| [GOAL,1] [X/SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\:,2] ||| [GOAL,1] [S\:,2] ||| -1
+[GOAL] ||| [GOAL,1] [X/NP,2] ||| [GOAL,1] [X/NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\VBZ,2] ||| [GOAL,1] [SQ\VBZ,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\ADVP,2] ||| [GOAL,1] [VP\ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP\COMMA,2] ||| [GOAL,1] [PP\COMMA,2] ||| -1
+[GOAL] ||| [GOAL,1] [X\FW,2] ||| [GOAL,1] [X\FW,2] ||| -1
+[GOAL] ||| [GOAL,1] [X/NN,2] ||| [GOAL,1] [X/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/NNP,2] ||| [GOAL,1] [PP/NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/NNS,2] ||| [GOAL,1] [PP/NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [NX/-RRB-,2] ||| [GOAL,1] [NX/-RRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ/VP,2] ||| [GOAL,1] [SBARQ/VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/CD,2] ||| [GOAL,1] [FRAG/CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\S,2] ||| [GOAL,1] [S\S,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\INTJ,2] ||| [GOAL,1] [SBARQ\INTJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\X,2] ||| [GOAL,1] [S\X,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/IN,2] ||| [GOAL,1] [PP/IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [VBD,2] ||| [GOAL,1] [VBD,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRN\COMMA,2] ||| [GOAL,1] [PRN\COMMA,2] ||| -1
+[GOAL] ||| [GOAL,1] [VBG,2] ||| [GOAL,1] [VBG,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ/VB,2] ||| [GOAL,1] [SBARQ/VB,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\NN,2] ||| [GOAL,1] [SBARQ\NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\NP,2] ||| [GOAL,1] [SBARQ\NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHADJP\RB,2] ||| [GOAL,1] [WHADJP\RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [VBN,2] ||| [GOAL,1] [VBN,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/JJ,2] ||| [GOAL,1] [PP/JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [VBP,2] ||| [GOAL,1] [VBP,2] ||| -1
+[GOAL] ||| [GOAL,1] [INTJ/INTJ,2] ||| [GOAL,1] [INTJ/INTJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP/NN,2] ||| [GOAL,1] [QP/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [VBZ,2] ||| [GOAL,1] [VBZ,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP\RB,2] ||| [GOAL,1] [ADVP\RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP\CD,2] ||| [GOAL,1] [PP\CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP\CC,2] ||| [GOAL,1] [PP\CC,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP/COMMA,2] ||| [GOAL,1] [WHNP/COMMA,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/ADVP,2] ||| [GOAL,1] [FRAG/ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\NNS,2] ||| [GOAL,1] [S\NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\PRP,2] ||| [GOAL,1] [S\PRP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\-LRB-,2] ||| [GOAL,1] [SBAR\-LRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\NNP,2] ||| [GOAL,1] [S\NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [X/PP,2] ||| [GOAL,1] [X/PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\LST,2] ||| [GOAL,1] [NP\LST,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\PRN,2] ||| [GOAL,1] [S\PRN,2] ||| -1
+[GOAL] ||| [GOAL,1] [-LRB-,2] ||| [GOAL,1] [-LRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/.,2] ||| [GOAL,1] [FRAG/.,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/:,2] ||| [GOAL,1] [FRAG/:,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/UCP,2] ||| [GOAL,1] [SBAR/UCP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\RBS,2] ||| [GOAL,1] [VP\RBS,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\RBR,2] ||| [GOAL,1] [VP\RBR,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/ADVP,2] ||| [GOAL,1] [SBAR/ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/SBARQ,2] ||| [GOAL,1] [S/SBARQ,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHPP/NNS,2] ||| [GOAL,1] [WHPP/NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP\QP,2] ||| [GOAL,1] [ADVP\QP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV\S,2] ||| [GOAL,1] [SINV\S,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP\DT,2] ||| [GOAL,1] [PP\DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHADVP/WRB,2] ||| [GOAL,1] [WHADVP/WRB,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/S,2] ||| [GOAL,1] [FRAG/S,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\SBAR,2] ||| [GOAL,1] [SQ\SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ/SQ,2] ||| [GOAL,1] [SBARQ/SQ,2] ||| -1
+[GOAL] ||| [GOAL,1] [X\JJ,2] ||| [GOAL,1] [X\JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRP$,2] ||| [GOAL,1] [PRP$,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP\ADJP,2] ||| [GOAL,1] [UCP\ADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\NNPS,2] ||| [GOAL,1] [S\NNPS,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP\$,2] ||| [GOAL,1] [ADJP\$,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\SYM,2] ||| [GOAL,1] [SBAR\SYM,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/JJR,2] ||| [GOAL,1] [PP/JJR,2] ||| -1
+[GOAL] ||| [GOAL,1] [LST/-RRB-,2] ||| [GOAL,1] [LST/-RRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/JJS,2] ||| [GOAL,1] [PP/JJS,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/SBARQ,2] ||| [GOAL,1] [VP/SBARQ,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\WP,2] ||| [GOAL,1] [SBAR\WP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/SBAR,2] ||| [GOAL,1] [NP/SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\SBAR,2] ||| [GOAL,1] [SBAR\SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/DT,2] ||| [GOAL,1] [NP/DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP\RBR,2] ||| [GOAL,1] [UCP\RBR,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\WRB,2] ||| [GOAL,1] [FRAG\WRB,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/NNPS,2] ||| [GOAL,1] [ADJP/NNPS,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRN/SBAR,2] ||| [GOAL,1] [PRN/SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\JJ,2] ||| [GOAL,1] [SBARQ\JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP/WP,2] ||| [GOAL,1] [WHNP/WP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ/RB,2] ||| [GOAL,1] [SBARQ/RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\IN,2] ||| [GOAL,1] [SBARQ\IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/JJR,2] ||| [GOAL,1] [SBAR/JJR,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP\CD,2] ||| [GOAL,1] [QP\CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/JJS,2] ||| [GOAL,1] [SBAR/JJS,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP\CC,2] ||| [GOAL,1] [QP\CC,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP/JJ,2] ||| [GOAL,1] [QP/JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/CD,2] ||| [GOAL,1] [S/CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/CD,2] ||| [GOAL,1] [NP/CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/COMMA,2] ||| [GOAL,1] [PP/COMMA,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/VBP,2] ||| [GOAL,1] [S/VBP,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\SBAR,2] ||| [GOAL,1] [FRAG\SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP\QP,2] ||| [GOAL,1] [WHNP\QP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\UCP,2] ||| [GOAL,1] [NP\UCP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/WHADJP,2] ||| [GOAL,1] [VP/WHADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/FW,2] ||| [GOAL,1] [PP/FW,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/VBN,2] ||| [GOAL,1] [S/VBN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ/PP,2] ||| [GOAL,1] [SBARQ/PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP\RB,2] ||| [GOAL,1] [WHNP\RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/VBZ,2] ||| [GOAL,1] [S/VBZ,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP\ADVP,2] ||| [GOAL,1] [PP\ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP\SYM,2] ||| [GOAL,1] [PP\SYM,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV\ADVP,2] ||| [GOAL,1] [SINV\ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHPP/WDT,2] ||| [GOAL,1] [WHPP/WDT,2] ||| -1
+[GOAL] ||| [GOAL,1] [NNPS,2] ||| [GOAL,1] [NNPS,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\PRP$,2] ||| [GOAL,1] [S\PRP$,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\TO,2] ||| [GOAL,1] [SBAR\TO,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/DT,2] ||| [GOAL,1] [S/DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [X\NN,2] ||| [GOAL,1] [X\NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP\WDT,2] ||| [GOAL,1] [WHNP\WDT,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\VB,2] ||| [GOAL,1] [VP\VB,2] ||| -1
+[GOAL] ||| [GOAL,1] [X\NP,2] ||| [GOAL,1] [X\NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ/NP,2] ||| [GOAL,1] [SBARQ/NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/UCP,2] ||| [GOAL,1] [PP/UCP,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/VBD,2] ||| [GOAL,1] [S/VBD,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP\DT,2] ||| [GOAL,1] [QP\DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/VBG,2] ||| [GOAL,1] [S/VBG,2] ||| -1
+[GOAL] ||| [GOAL,1] [X/VP,2] ||| [GOAL,1] [X/VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\VP,2] ||| [GOAL,1] [VP\VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [X/NNPS,2] ||| [GOAL,1] [X/NNPS,2] ||| -1
+[GOAL] ||| [GOAL,1] [INTJ/NNP,2] ||| [GOAL,1] [INTJ/NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/QP,2] ||| [GOAL,1] [PP/QP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\CD,2] ||| [GOAL,1] [SBAR\CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\CC,2] ||| [GOAL,1] [SBAR\CC,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP\NP,2] ||| [GOAL,1] [QP\NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP\NN,2] ||| [GOAL,1] [QP\NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP\IN,2] ||| [GOAL,1] [PP\IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/JJ,2] ||| [GOAL,1] [SBAR/JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP\JJ,2] ||| [GOAL,1] [PP\JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/RB,2] ||| [GOAL,1] [PP/RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\LST,2] ||| [GOAL,1] [S\LST,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/WRB,2] ||| [GOAL,1] [SBAR/WRB,2] ||| -1
+[GOAL] ||| [GOAL,1] [X\SYM,2] ||| [GOAL,1] [X\SYM,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\SYM,2] ||| [GOAL,1] [NP\SYM,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/UCP,2] ||| [GOAL,1] [NP/UCP,2] ||| -1
+[GOAL] ||| [GOAL,1] [RBS,2] ||| [GOAL,1] [RBS,2] ||| -1
+[GOAL] ||| [GOAL,1] [RBR,2] ||| [GOAL,1] [RBR,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP\IN,2] ||| [GOAL,1] [ADVP\IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/IN,2] ||| [GOAL,1] [SBAR/IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/FW,2] ||| [GOAL,1] [S/FW,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\ADVP,2] ||| [GOAL,1] [NP\ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/PRP,2] ||| [GOAL,1] [ADJP/PRP,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP/OOV,2] ||| [GOAL,1] [QP/OOV,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/NNP,2] ||| [GOAL,1] [ADJP/NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/NNS,2] ||| [GOAL,1] [ADJP/NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRN/VP,2] ||| [GOAL,1] [PRN/VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [INTJ\UH,2] ||| [GOAL,1] [INTJ\UH,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\FRAG,2] ||| [GOAL,1] [FRAG\FRAG,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/RB,2] ||| [GOAL,1] [ADVP/RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/PRN,2] ||| [GOAL,1] [ADJP/PRN,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP\JJ,2] ||| [GOAL,1] [ADVP\JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP/JJR,2] ||| [GOAL,1] [UCP/JJR,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP\ADVP,2] ||| [GOAL,1] [ADVP\ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/IN,2] ||| [GOAL,1] [S/IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [INTJ\VB,2] ||| [GOAL,1] [INTJ\VB,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/FW,2] ||| [GOAL,1] [NP/FW,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\UH,2] ||| [GOAL,1] [SBARQ\UH,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/EX,2] ||| [GOAL,1] [NP/EX,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\VBP,2] ||| [GOAL,1] [VP\VBP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\VBN,2] ||| [GOAL,1] [VP\VBN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\TO,2] ||| [GOAL,1] [SBARQ\TO,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/JJ,2] ||| [GOAL,1] [S/JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV\ADJP,2] ||| [GOAL,1] [SINV\ADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\VBZ,2] ||| [GOAL,1] [VP\VBZ,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\ADVP,2] ||| [GOAL,1] [FRAG\ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/TO,2] ||| [GOAL,1] [PP/TO,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP/SBAR,2] ||| [GOAL,1] [UCP/SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/SBAR,2] ||| [GOAL,1] [VP/SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/PP,2] ||| [GOAL,1] [ADVP/PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NAC/ADJP,2] ||| [GOAL,1] [NAC/ADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP\JJR,2] ||| [GOAL,1] [ADVP\JJR,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\ADVP,2] ||| [GOAL,1] [SBAR\ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP,2] ||| [GOAL,1] [WHNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP\NP,2] ||| [GOAL,1] [ADVP\NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/VB,2] ||| [GOAL,1] [ADVP/VB,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\PRP,2] ||| [GOAL,1] [SBARQ\PRP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\:,2] ||| [GOAL,1] [NP\:,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP\QP,2] ||| [GOAL,1] [ADJP\QP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\NNP,2] ||| [GOAL,1] [SBARQ\NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP\JJ,2] ||| [GOAL,1] [QP\JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ/VBP,2] ||| [GOAL,1] [SBARQ/VBP,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP\IN,2] ||| [GOAL,1] [QP\IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/-RRB-,2] ||| [GOAL,1] [ADVP/-RRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP\VBG,2] ||| [GOAL,1] [UCP\VBG,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\DT,2] ||| [GOAL,1] [NP\DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\X,2] ||| [GOAL,1] [NP\X,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/ADJP,2] ||| [GOAL,1] [ADVP/ADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\DT,2] ||| [GOAL,1] [S\DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/VBP,2] ||| [GOAL,1] [ADVP/VBP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP\FW,2] ||| [GOAL,1] [PP\FW,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/VBN,2] ||| [GOAL,1] [ADVP/VBN,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\WDT,2] ||| [GOAL,1] [S\WDT,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/NN,2] ||| [GOAL,1] [PP/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\RB,2] ||| [GOAL,1] [SBARQ\RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\CD,2] ||| [GOAL,1] [S\CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\$,2] ||| [GOAL,1] [NP\$,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\CC,2] ||| [GOAL,1] [S\CC,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/VBZ,2] ||| [GOAL,1] [ADVP/VBZ,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ/VBG,2] ||| [GOAL,1] [SBARQ/VBG,2] ||| -1
+[GOAL] ||| [GOAL,1] [X/NNS,2] ||| [GOAL,1] [X/NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/VP,2] ||| [GOAL,1] [ADVP/VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/JJR,2] ||| [GOAL,1] [ADJP/JJR,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/NX,2] ||| [GOAL,1] [PP/NX,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\JJR,2] ||| [GOAL,1] [S\JJR,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/JJS,2] ||| [GOAL,1] [ADJP/JJS,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/FRAG,2] ||| [GOAL,1] [SBAR/FRAG,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\JJS,2] ||| [GOAL,1] [S\JJS,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP,2] ||| [GOAL,1] [ADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [X/NNP,2] ||| [GOAL,1] [X/NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHPP,2] ||| [GOAL,1] [WHPP,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP/RB,2] ||| [GOAL,1] [QP/RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [X/PRN,2] ||| [GOAL,1] [X/PRN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/ADVP,2] ||| [GOAL,1] [SQ/ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/NP,2] ||| [GOAL,1] [PP/NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP\NN,2] ||| [GOAL,1] [ADVP\NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/DT,2] ||| [GOAL,1] [SBAR/DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV/:,2] ||| [GOAL,1] [SINV/:,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/FRAG,2] ||| [GOAL,1] [FRAG/FRAG,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/NNP,2] ||| [GOAL,1] [FRAG/NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/PRP,2] ||| [GOAL,1] [FRAG/PRP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\CC,2] ||| [GOAL,1] [NP\CC,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\CD,2] ||| [GOAL,1] [NP\CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/WRB,2] ||| [GOAL,1] [VP/WRB,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRN/NNP,2] ||| [GOAL,1] [PRN/NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/NNS,2] ||| [GOAL,1] [FRAG/NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/RBR,2] ||| [GOAL,1] [S/RBR,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/JJS,2] ||| [GOAL,1] [NP/JJS,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/JJR,2] ||| [GOAL,1] [NP/JJR,2] ||| -1
+[GOAL] ||| [GOAL,1] [INTJ\RB,2] ||| [GOAL,1] [INTJ\RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/PRN,2] ||| [GOAL,1] [FRAG/PRN,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/NP,2] ||| [GOAL,1] [S/NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/NN,2] ||| [GOAL,1] [S/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\PP,2] ||| [GOAL,1] [SBARQ\PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/JJ,2] ||| [GOAL,1] [NP/JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [X/ADJP,2] ||| [GOAL,1] [X/ADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] ['',2] ||| [GOAL,1] ['',2] ||| -1
+[GOAL] ||| [GOAL,1] [PDT,2] ||| [GOAL,1] [PDT,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/IN,2] ||| [GOAL,1] [NP/IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/PP,2] ||| [GOAL,1] [PP/PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\SBAR,2] ||| [GOAL,1] [SBARQ\SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [NAC\NAC,2] ||| [GOAL,1] [NAC\NAC,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/CD,2] ||| [GOAL,1] [SBAR/CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\OOV,2] ||| [GOAL,1] [NP\OOV,2] ||| -1
+[GOAL] ||| [GOAL,1] [NAC,2] ||| [GOAL,1] [NAC,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP\RB,2] ||| [GOAL,1] [ADJP\RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [X\WP,2] ||| [GOAL,1] [X\WP,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/MD,2] ||| [GOAL,1] [S/MD,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\EX,2] ||| [GOAL,1] [S\EX,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/JJS,2] ||| [GOAL,1] [VP/JJS,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP\RB,2] ||| [GOAL,1] [PP\RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\WRB,2] ||| [GOAL,1] [S\WRB,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/JJR,2] ||| [GOAL,1] [VP/JJR,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/UCP,2] ||| [GOAL,1] [ADJP/UCP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/CD,2] ||| [GOAL,1] [SQ/CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRN/NN,2] ||| [GOAL,1] [PRN/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/IN,2] ||| [GOAL,1] [ADVP/IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRN/NP,2] ||| [GOAL,1] [PRN/NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\IN,2] ||| [GOAL,1] [NP\IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/RP,2] ||| [GOAL,1] [SBAR/RP,2] ||| -1
+[GOAL] ||| [GOAL,1] [X/COMMA,2] ||| [GOAL,1] [X/COMMA,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/PP,2] ||| [GOAL,1] [S/PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/PRP$,2] ||| [GOAL,1] [VP/PRP$,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/WHNP,2] ||| [GOAL,1] [SBAR/WHNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/PP,2] ||| [GOAL,1] [NP/PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRN/S,2] ||| [GOAL,1] [PRN/S,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP\JJR,2] ||| [GOAL,1] [QP\JJR,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP\CC,2] ||| [GOAL,1] [ADVP\CC,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/RB,2] ||| [GOAL,1] [SBAR/RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/NX,2] ||| [GOAL,1] [S/NX,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\JJ,2] ||| [GOAL,1] [SBAR\JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/PRN,2] ||| [GOAL,1] [NP/PRN,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/JJ,2] ||| [GOAL,1] [ADVP/JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\WHPP,2] ||| [GOAL,1] [SBARQ\WHPP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NAC/CD,2] ||| [GOAL,1] [NAC/CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [RRC\RRC,2] ||| [GOAL,1] [RRC\RRC,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/QP,2] ||| [GOAL,1] [SBAR/QP,2] ||| -1
+[GOAL] ||| [GOAL,1] [TOP,2] ||| [GOAL,1] [TOP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV/.,2] ||| [GOAL,1] [SINV/.,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\IN,2] ||| [GOAL,1] [SBAR\IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP\VBN,2] ||| [GOAL,1] [ADJP\VBN,2] ||| -1
+[GOAL] ||| [GOAL,1] [INTJ/UH,2] ||| [GOAL,1] [INTJ/UH,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/NX,2] ||| [GOAL,1] [NP/NX,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRN/PP,2] ||| [GOAL,1] [PRN/PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NAC\NNP,2] ||| [GOAL,1] [NAC\NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/RB,2] ||| [GOAL,1] [S/RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/NNS,2] ||| [GOAL,1] [SQ/NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\JJ,2] ||| [GOAL,1] [S\JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/PP,2] ||| [GOAL,1] [SBAR/PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/NNS,2] ||| [GOAL,1] [NP/NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/NNP,2] ||| [GOAL,1] [NP/NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/PRP,2] ||| [GOAL,1] [NP/PRP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/DT,2] ||| [GOAL,1] [SQ/DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP\TO,2] ||| [GOAL,1] [PP\TO,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\ADJP,2] ||| [GOAL,1] [NP\ADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\FW,2] ||| [GOAL,1] [NP\FW,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/RP,2] ||| [GOAL,1] [S/RP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/FW,2] ||| [GOAL,1] [ADVP/FW,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/NN,2] ||| [GOAL,1] [NP/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/NP,2] ||| [GOAL,1] [NP/NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [INTJ\NN,2] ||| [GOAL,1] [INTJ\NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [INTJ/VB,2] ||| [GOAL,1] [INTJ/VB,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\IN,2] ||| [GOAL,1] [S\IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\-LRB-,2] ||| [GOAL,1] [NP\-LRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/NNPS,2] ||| [GOAL,1] [VP/NNPS,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\WHNP,2] ||| [GOAL,1] [SBARQ\WHNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/NNP,2] ||| [GOAL,1] [SQ/NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/.,2] ||| [GOAL,1] [S/.,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/PRP,2] ||| [GOAL,1] [SQ/PRP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/MD,2] ||| [GOAL,1] [NP/MD,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\EX,2] ||| [GOAL,1] [NP\EX,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/QP,2] ||| [GOAL,1] [S/QP,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/:,2] ||| [GOAL,1] [S/:,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/NX,2] ||| [GOAL,1] [SBAR/NX,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/ADJP,2] ||| [GOAL,1] [NP/ADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/NP,2] ||| [GOAL,1] [SBAR/NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/ADJP,2] ||| [GOAL,1] [FRAG/ADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/NN,2] ||| [GOAL,1] [SBAR/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/TO,2] ||| [GOAL,1] [S/TO,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/UCP,2] ||| [GOAL,1] [VP/UCP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP\NP,2] ||| [GOAL,1] [PP\NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/S,2] ||| [GOAL,1] [S/S,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP\RB,2] ||| [GOAL,1] [QP\RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/MD,2] ||| [GOAL,1] [ADVP/MD,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\LS,2] ||| [GOAL,1] [S\LS,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/VB,2] ||| [GOAL,1] [PP/VB,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\WHPP,2] ||| [GOAL,1] [FRAG\WHPP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/TO,2] ||| [GOAL,1] [NP/TO,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/X,2] ||| [GOAL,1] [S/X,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/RRC,2] ||| [GOAL,1] [NP/RRC,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/RBR,2] ||| [GOAL,1] [ADVP/RBR,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/NX,2] ||| [GOAL,1] [ADVP/NX,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/VP,2] ||| [GOAL,1] [PP/VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\VBD,2] ||| [GOAL,1] [VP\VBD,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHADVP\RB,2] ||| [GOAL,1] [WHADVP\RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\VBG,2] ||| [GOAL,1] [VP\VBG,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/NP,2] ||| [GOAL,1] [ADVP/NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/NN,2] ||| [GOAL,1] [ADVP/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\SBAR,2] ||| [GOAL,1] [VP\SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/NNPS,2] ||| [GOAL,1] [ADVP/NNPS,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/MD,2] ||| [GOAL,1] [SBAR/MD,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/SQ,2] ||| [GOAL,1] [S/SQ,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP/NNS,2] ||| [GOAL,1] [UCP/NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/WP,2] ||| [GOAL,1] [PP/WP,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP/PRP,2] ||| [GOAL,1] [UCP/PRP,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP/NNP,2] ||| [GOAL,1] [UCP/NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\NP,2] ||| [GOAL,1] [S\NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/ADJP,2] ||| [GOAL,1] [SBAR/ADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\NN,2] ||| [GOAL,1] [S\NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/VB,2] ||| [GOAL,1] [S/VB,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP\DT,2] ||| [GOAL,1] [ADVP\DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/VP,2] ||| [GOAL,1] [S/VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP\PP,2] ||| [GOAL,1] [PP\PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG,2] ||| [GOAL,1] [FRAG,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\DT,2] ||| [GOAL,1] [SBAR\DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [X\X,2] ||| [GOAL,1] [X\X,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\SYM,2] ||| [GOAL,1] [VP\SYM,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/RP,2] ||| [GOAL,1] [NP/RP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/WHPP,2] ||| [GOAL,1] [SBAR/WHPP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NAC/SYM,2] ||| [GOAL,1] [NAC/SYM,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP\CD,2] ||| [GOAL,1] [ADVP\CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [INTJ\JJ,2] ||| [GOAL,1] [INTJ\JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRN/.,2] ||| [GOAL,1] [PRN/.,2] ||| -1
+[GOAL] ||| [GOAL,1] [INTJ/RB,2] ||| [GOAL,1] [INTJ/RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\MD,2] ||| [GOAL,1] [S\MD,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/UH,2] ||| [GOAL,1] [S/UH,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\JJ,2] ||| [GOAL,1] [NP\JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRN/SQ,2] ||| [GOAL,1] [PRN/SQ,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/RB,2] ||| [GOAL,1] [NP/RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/POS,2] ||| [GOAL,1] [NP/POS,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\ADJP,2] ||| [GOAL,1] [FRAG\ADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\SYM,2] ||| [GOAL,1] [FRAG\SYM,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\WHPP,2] ||| [GOAL,1] [SBAR\WHPP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\WP,2] ||| [GOAL,1] [SBARQ\WP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP\QP,2] ||| [GOAL,1] [PP\QP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV\PRP,2] ||| [GOAL,1] [SINV\PRP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRN/:,2] ||| [GOAL,1] [PRN/:,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV\NNP,2] ||| [GOAL,1] [SINV\NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/QP,2] ||| [GOAL,1] [NP/QP,2] ||| -1
+[GOAL] ||| [GOAL,1] [CONJP,2] ||| [GOAL,1] [CONJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [RRC,2] ||| [GOAL,1] [RRC,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP,2] ||| [GOAL,1] [ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\QP,2] ||| [GOAL,1] [NP\QP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/MD,2] ||| [GOAL,1] [ADJP/MD,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV/NNP,2] ||| [GOAL,1] [SINV/NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP/JJ,2] ||| [GOAL,1] [UCP/JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\PP,2] ||| [GOAL,1] [S\PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\WHADJP,2] ||| [GOAL,1] [FRAG\WHADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP\DT,2] ||| [GOAL,1] [ADJP\DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [INTJ\INTJ,2] ||| [GOAL,1] [INTJ\INTJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP\CD,2] ||| [GOAL,1] [UCP\CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP\CC,2] ||| [GOAL,1] [UCP\CC,2] ||| -1
+[GOAL] ||| [GOAL,1] [CONJP/IN,2] ||| [GOAL,1] [CONJP/IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP\CONJP,2] ||| [GOAL,1] [UCP\CONJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/-RRB-,2] ||| [GOAL,1] [S/-RRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/JJ,2] ||| [GOAL,1] [SQ/JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/ADJP,2] ||| [GOAL,1] [SQ/ADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\CC,2] ||| [GOAL,1] [SQ\CC,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\UH,2] ||| [GOAL,1] [FRAG\UH,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP/ADJP,2] ||| [GOAL,1] [UCP/ADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [QP\RBR,2] ||| [GOAL,1] [QP\RBR,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/COMMA,2] ||| [GOAL,1] [ADVP/COMMA,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\TO,2] ||| [GOAL,1] [FRAG\TO,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP/IN,2] ||| [GOAL,1] [UCP/IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/WP,2] ||| [GOAL,1] [S/WP,2] ||| -1
+[GOAL] ||| [GOAL,1] [POS,2] ||| [GOAL,1] [POS,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP\WRB,2] ||| [GOAL,1] [UCP\WRB,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV/NNS,2] ||| [GOAL,1] [SINV/NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/SYM,2] ||| [GOAL,1] [SBAR/SYM,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/-RRB-,2] ||| [GOAL,1] [SBAR/-RRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\VB,2] ||| [GOAL,1] [FRAG\VB,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP\RBR,2] ||| [GOAL,1] [ADJP\RBR,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\NNPS,2] ||| [GOAL,1] [NP\NNPS,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP\WHADJP,2] ||| [GOAL,1] [WHNP\WHADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/NX,2] ||| [GOAL,1] [ADJP/NX,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/ADJP,2] ||| [GOAL,1] [VP/ADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/NN,2] ||| [GOAL,1] [ADJP/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\NNP,2] ||| [GOAL,1] [SQ\NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\PRP,2] ||| [GOAL,1] [SQ\PRP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/VP,2] ||| [GOAL,1] [NP/VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHPP/NN,2] ||| [GOAL,1] [WHPP/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [X/-RRB-,2] ||| [GOAL,1] [X/-RRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/WHPP,2] ||| [GOAL,1] [VP/WHPP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP\RBS,2] ||| [GOAL,1] [ADJP\RBS,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/NP,2] ||| [GOAL,1] [ADJP/NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/POS,2] ||| [GOAL,1] [VP/POS,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\VBD,2] ||| [GOAL,1] [FRAG\VBD,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/VB,2] ||| [GOAL,1] [NP/VB,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\NN,2] ||| [GOAL,1] [NP\NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\PDT,2] ||| [GOAL,1] [NP\PDT,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\NP,2] ||| [GOAL,1] [NP\NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\QP,2] ||| [GOAL,1] [S\QP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP\CONJP,2] ||| [GOAL,1] [PP\CONJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHADJP,2] ||| [GOAL,1] [WHADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NAC/JJ,2] ||| [GOAL,1] [NAC/JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\S,2] ||| [GOAL,1] [SQ\S,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\VP,2] ||| [GOAL,1] [FRAG\VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [INTJ/NN,2] ||| [GOAL,1] [INTJ/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/PRN,2] ||| [GOAL,1] [S/PRN,2] ||| -1
+[GOAL] ||| [GOAL,1] [INTJ,2] ||| [GOAL,1] [INTJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\DT,2] ||| [GOAL,1] [SQ\DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/PRP,2] ||| [GOAL,1] [S/PRP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\NAC,2] ||| [GOAL,1] [NP\NAC,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/NNP,2] ||| [GOAL,1] [S/NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\RB,2] ||| [GOAL,1] [S\RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\VBG,2] ||| [GOAL,1] [FRAG\VBG,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/NNS,2] ||| [GOAL,1] [S/NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/NNS,2] ||| [GOAL,1] [VP/NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/COMMA,2] ||| [GOAL,1] [VP/COMMA,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\TO,2] ||| [GOAL,1] [S\TO,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/.,2] ||| [GOAL,1] [ADJP/.,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHPP/WHPP,2] ||| [GOAL,1] [WHPP/WHPP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/NNP,2] ||| [GOAL,1] [VP/NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/PRP,2] ||| [GOAL,1] [VP/PRP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/PRN,2] ||| [GOAL,1] [VP/PRN,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRN,2] ||| [GOAL,1] [PRN,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRP,2] ||| [GOAL,1] [PRP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NNP,2] ||| [GOAL,1] [NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\INTJ,2] ||| [GOAL,1] [S\INTJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [NNS,2] ||| [GOAL,1] [NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/RBR,2] ||| [GOAL,1] [PP/RBR,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP\ADJP,2] ||| [GOAL,1] [ADJP\ADJP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRT,2] ||| [GOAL,1] [PRT,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\COMMA,2] ||| [GOAL,1] [S\COMMA,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/:,2] ||| [GOAL,1] [ADJP/:,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\UH,2] ||| [GOAL,1] [S\UH,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/DT,2] ||| [GOAL,1] [ADVP/DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/S,2] ||| [GOAL,1] [ADJP/S,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/SBAR,2] ||| [GOAL,1] [S/SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\RBR,2] ||| [GOAL,1] [NP\RBR,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\RBS,2] ||| [GOAL,1] [NP\RBS,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/EX,2] ||| [GOAL,1] [SQ/EX,2] ||| -1
+[GOAL] ||| [GOAL,1] [NX/CD,2] ||| [GOAL,1] [NX/CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [-RRB-,2] ||| [GOAL,1] [-RRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV,2] ||| [GOAL,1] [SINV,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\WRB,2] ||| [GOAL,1] [SBARQ\WRB,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV\SBAR,2] ||| [GOAL,1] [SINV\SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\PP,2] ||| [GOAL,1] [FRAG\PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\WHADVP,2] ||| [GOAL,1] [SBARQ\WHADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/IN,2] ||| [GOAL,1] [SQ/IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP\CD,2] ||| [GOAL,1] [ADJP\CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [PRN/SBARQ,2] ||| [GOAL,1] [PRN/SBARQ,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\VP,2] ||| [GOAL,1] [S\VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP\CC,2] ||| [GOAL,1] [ADJP\CC,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV/SBARQ,2] ||| [GOAL,1] [SINV/SBARQ,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/CD,2] ||| [GOAL,1] [ADVP/CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\RB,2] ||| [GOAL,1] [FRAG\RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/JJ,2] ||| [GOAL,1] [ADJP/JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/POS,2] ||| [GOAL,1] [S/POS,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\ADVP,2] ||| [GOAL,1] [S\ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\ADVP,2] ||| [GOAL,1] [SQ\ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\-LRB-,2] ||| [GOAL,1] [FRAG\-LRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\QP,2] ||| [GOAL,1] [FRAG\QP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/NNPS,2] ||| [GOAL,1] [SBAR/NNPS,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\PRP$,2] ||| [GOAL,1] [NP\PRP$,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP/CD,2] ||| [GOAL,1] [UCP/CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\VB,2] ||| [GOAL,1] [S\VB,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\RB,2] ||| [GOAL,1] [NP\RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/IN,2] ||| [GOAL,1] [ADJP/IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP\PDT,2] ||| [GOAL,1] [ADJP\PDT,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\JJS,2] ||| [GOAL,1] [SBAR\JJS,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/.,2] ||| [GOAL,1] [NP/.,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/PRN,2] ||| [GOAL,1] [ADVP/PRN,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/:,2] ||| [GOAL,1] [NP/:,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\INTJ,2] ||| [GOAL,1] [SQ\INTJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/NNP,2] ||| [GOAL,1] [ADVP/NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/PRP,2] ||| [GOAL,1] [ADVP/PRP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/ADVP,2] ||| [GOAL,1] [ADVP/ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [JJS,2] ||| [GOAL,1] [JJS,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV\VP,2] ||| [GOAL,1] [SINV\VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [JJR,2] ||| [GOAL,1] [JJR,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/ADVP,2] ||| [GOAL,1] [NP/ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/SQ,2] ||| [GOAL,1] [SQ/SQ,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/SYM,2] ||| [GOAL,1] [PP/SYM,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBARQ\WDT,2] ||| [GOAL,1] [SBARQ\WDT,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\SYM,2] ||| [GOAL,1] [S\SYM,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\WP,2] ||| [GOAL,1] [S\WP,2] ||| -1
+[GOAL] ||| [GOAL,1] [WDT,2] ||| [GOAL,1] [WDT,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP/WHPP,2] ||| [GOAL,1] [WHNP/WHPP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADVP/NNS,2] ||| [GOAL,1] [ADVP/NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/CC,2] ||| [GOAL,1] [VP/CC,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP/CD,2] ||| [GOAL,1] [VP/CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/RB,2] ||| [GOAL,1] [SQ/RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/RP,2] ||| [GOAL,1] [SQ/RP,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP\JJ,2] ||| [GOAL,1] [UCP\JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP/RB,2] ||| [GOAL,1] [UCP/RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\WP,2] ||| [GOAL,1] [NP\WP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/WP,2] ||| [GOAL,1] [ADJP/WP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\NN,2] ||| [GOAL,1] [SQ\NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/VB,2] ||| [GOAL,1] [SQ/VB,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP/PP,2] ||| [GOAL,1] [UCP/PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR\S,2] ||| [GOAL,1] [SBAR\S,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\-LRB-,2] ||| [GOAL,1] [S\-LRB-,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/VP,2] ||| [GOAL,1] [ADJP/VP,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/COMMA,2] ||| [GOAL,1] [S/COMMA,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP\IN,2] ||| [GOAL,1] [UCP\IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [NAC\JJ,2] ||| [GOAL,1] [NAC\JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/S,2] ||| [GOAL,1] [NP/S,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP\NP,2] ||| [GOAL,1] [ADJP\NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\MD,2] ||| [GOAL,1] [SQ\MD,2] ||| -1
+[GOAL] ||| [GOAL,1] [NX\NNP,2] ||| [GOAL,1] [NX\NNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP\NN,2] ||| [GOAL,1] [ADJP\NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/VB,2] ||| [GOAL,1] [ADJP/VB,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/UCP,2] ||| [GOAL,1] [S/UCP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/X,2] ||| [GOAL,1] [NP/X,2] ||| -1
+[GOAL] ||| [GOAL,1] [WHNP/WHNP,2] ||| [GOAL,1] [WHNP/WHNP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\VB,2] ||| [GOAL,1] [NP\VB,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\SBAR,2] ||| [GOAL,1] [NP\SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/TO,2] ||| [GOAL,1] [SQ/TO,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP/FRAG,2] ||| [GOAL,1] [NP/FRAG,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP,2] ||| [GOAL,1] [UCP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SINV\RB,2] ||| [GOAL,1] [SINV\RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [NAC/NAC,2] ||| [GOAL,1] [NAC/NAC,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/VBD,2] ||| [GOAL,1] [PP/VBD,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP/NN,2] ||| [GOAL,1] [UCP/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [NAC/NP,2] ||| [GOAL,1] [NAC/NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/FRAG,2] ||| [GOAL,1] [PP/FRAG,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG/SBAR,2] ||| [GOAL,1] [FRAG/SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/VBG,2] ||| [GOAL,1] [PP/VBG,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP/NP,2] ||| [GOAL,1] [UCP/NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP\IN,2] ||| [GOAL,1] [ADJP\IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/PP,2] ||| [GOAL,1] [ADJP/PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/VBN,2] ||| [GOAL,1] [PP/VBN,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/VBP,2] ||| [GOAL,1] [PP/VBP,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\WP,2] ||| [GOAL,1] [FRAG\WP,2] ||| -1
+[GOAL] ||| [GOAL,1] [NX\NNS,2] ||| [GOAL,1] [NX\NNS,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/VBZ,2] ||| [GOAL,1] [PP/VBZ,2] ||| -1
+[GOAL] ||| [GOAL,1] [NAC/NNPS,2] ||| [GOAL,1] [NAC/NNPS,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/NNPS,2] ||| [GOAL,1] [S/NNPS,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\INTJ,2] ||| [GOAL,1] [FRAG\INTJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\VBN,2] ||| [GOAL,1] [NP\VBN,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/NP,2] ||| [GOAL,1] [SQ/NP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/NN,2] ||| [GOAL,1] [SQ/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP\PRN,2] ||| [GOAL,1] [PP\PRN,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\$,2] ||| [GOAL,1] [VP\$,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/VBD,2] ||| [GOAL,1] [SBAR/VBD,2] ||| -1
+[GOAL] ||| [GOAL,1] [LST,2] ||| [GOAL,1] [LST,2] ||| -1
+[GOAL] ||| [GOAL,1] [NP\VBG,2] ||| [GOAL,1] [NP\VBG,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/VBG,2] ||| [GOAL,1] [SBAR/VBG,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/VBN,2] ||| [GOAL,1] [SBAR/VBN,2] ||| -1
+[GOAL] ||| [GOAL,1] [NAC/PP,2] ||| [GOAL,1] [NAC/PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [FRAG\WHADVP,2] ||| [GOAL,1] [FRAG\WHADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/VBP,2] ||| [GOAL,1] [SBAR/VBP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/VBZ,2] ||| [GOAL,1] [SBAR/VBZ,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/'',2] ||| [GOAL,1] [PP/'',2] ||| -1
+[GOAL] ||| [GOAL,1] [NX\CD,2] ||| [GOAL,1] [NX\CD,2] ||| -1
+[GOAL] ||| [GOAL,1] [UCP\DT,2] ||| [GOAL,1] [UCP\DT,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/:,2] ||| [GOAL,1] [PP/:,2] ||| -1
+[GOAL] ||| [GOAL,1] [S\OOV,2] ||| [GOAL,1] [S\OOV,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/RP,2] ||| [GOAL,1] [ADJP/RP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ\IN,2] ||| [GOAL,1] [SQ\IN,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/RB,2] ||| [GOAL,1] [ADJP/RB,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP\JJ,2] ||| [GOAL,1] [ADJP\JJ,2] ||| -1
+[GOAL] ||| [GOAL,1] [SQ/PP,2] ||| [GOAL,1] [SQ/PP,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/ADVP,2] ||| [GOAL,1] [PP/ADVP,2] ||| -1
+[GOAL] ||| [GOAL,1] [SBAR/SBAR,2] ||| [GOAL,1] [SBAR/SBAR,2] ||| -1
+[GOAL] ||| [GOAL,1] [NAC/NN,2] ||| [GOAL,1] [NAC/NN,2] ||| -1
+[GOAL] ||| [GOAL,1] [ADJP/QP,2] ||| [GOAL,1] [ADJP/QP,2] ||| -1
+[GOAL] ||| [GOAL,1] [VP\WRB,2] ||| [GOAL,1] [VP\WRB,2] ||| -1
+[GOAL] ||| [GOAL,1] [PP/.,2] ||| [GOAL,1] [PP/.,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/JJR,2] ||| [GOAL,1] [S/JJR,2] ||| -1
+[GOAL] ||| [GOAL,1] [S/JJS,2] ||| [GOAL,1] [S/JJS,2] ||| -1
+[GOAL] ||| [GOAL,1] </s> ||| [GOAL,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\WHADJP,1] </s> ||| <s> [SBARQ\WHADJP,1] </s> ||| 0
+[GOAL] ||| <s> [X/VBP,1] </s> ||| <s> [X/VBP,1] </s> ||| 0
+[GOAL] ||| <s> [VP/INTJ,1] </s> ||| <s> [VP/INTJ,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\PRP$,1] </s> ||| <s> [SQ\PRP$,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/OOV,1] </s> ||| <s> [ADJP/OOV,1] </s> ||| 0
+[GOAL] ||| <s> [X\NNS,1] </s> ||| <s> [X\NNS,1] </s> ||| 0
+[GOAL] ||| <s> [NX\VBN,1] </s> ||| <s> [NX\VBN,1] </s> ||| 0
+[GOAL] ||| <s> [X\NNP,1] </s> ||| <s> [X\NNP,1] </s> ||| 0
+[GOAL] ||| <s> [VP\DT,1] </s> ||| <s> [VP\DT,1] </s> ||| 0
+[GOAL] ||| <s> [SINV/VB,1] </s> ||| <s> [SINV/VB,1] </s> ||| 0
+[GOAL] ||| <s> [QP/NNS,1] </s> ||| <s> [QP/NNS,1] </s> ||| 0
+[GOAL] ||| <s> [NX/PP,1] </s> ||| <s> [NX/PP,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\CD,1] </s> ||| <s> [FRAG\CD,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\CC,1] </s> ||| <s> [FRAG\CC,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP\ADVP,1] </s> ||| <s> [ADJP\ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [PP/S,1] </s> ||| <s> [PP/S,1] </s> ||| 0
+[GOAL] ||| <s> [VP\CD,1] </s> ||| <s> [VP\CD,1] </s> ||| 0
+[GOAL] ||| <s> [NAC/NNS,1] </s> ||| <s> [NAC/NNS,1] </s> ||| 0
+[GOAL] ||| <s> [VP\CC,1] </s> ||| <s> [VP\CC,1] </s> ||| 0
+[GOAL] ||| <s> [$,1] </s> ||| <s> [$,1] </s> ||| 0
+[GOAL] ||| <s> [NAC/NNP,1] </s> ||| <s> [NAC/NNP,1] </s> ||| 0
+[GOAL] ||| <s> [CONJP\RB,1] </s> ||| <s> [CONJP\RB,1] </s> ||| 0
+[GOAL] ||| <s> [UCP\RB,1] </s> ||| <s> [UCP\RB,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\SQ,1] </s> ||| <s> [SQ\SQ,1] </s> ||| 0
+[GOAL] ||| <s> [PRN/ADVP,1] </s> ||| <s> [PRN/ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [UCP/.,1] </s> ||| <s> [UCP/.,1] </s> ||| 0
+[GOAL] ||| <s> [PP/X,1] </s> ||| <s> [PP/X,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\DT,1] </s> ||| <s> [FRAG\DT,1] </s> ||| 0
+[GOAL] ||| <s> [.,1] </s> ||| <s> [.,1] </s> ||| 0
+[GOAL] ||| <s> [X/.,1] </s> ||| <s> [X/.,1] </s> ||| 0
+[GOAL] ||| <s> [:,1] </s> ||| <s> [:,1] </s> ||| 0
+[GOAL] ||| <s> [NAC/PRN,1] </s> ||| <s> [NAC/PRN,1] </s> ||| 0
+[GOAL] ||| <s> [NP/'',1] </s> ||| <s> [NP/'',1] </s> ||| 0
+[GOAL] ||| <s> [SINV\MD,1] </s> ||| <s> [SINV\MD,1] </s> ||| 0
+[GOAL] ||| <s> [X/:,1] </s> ||| <s> [X/:,1] </s> ||| 0
+[GOAL] ||| <s> [S\ADJP,1] </s> ||| <s> [S\ADJP,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP\WHNP,1] </s> ||| <s> [WHNP\WHNP,1] </s> ||| 0
+[GOAL] ||| <s> [UCP/VBG,1] </s> ||| <s> [UCP/VBG,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/SBAR,1] </s> ||| <s> [SQ/SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [VP/SINV,1] </s> ||| <s> [VP/SINV,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\WHADJP,1] </s> ||| <s> [SBAR\WHADJP,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\VP,1] </s> ||| <s> [SQ\VP,1] </s> ||| 0
+[GOAL] ||| <s> [UCP/VBN,1] </s> ||| <s> [UCP/VBN,1] </s> ||| 0
+[GOAL] ||| <s> [S,1] </s> ||| <s> [S,1] </s> ||| 0
+[GOAL] ||| <s> [NP\JJR,1] </s> ||| <s> [NP\JJR,1] </s> ||| 0
+[GOAL] ||| <s> [SINV\PP,1] </s> ||| <s> [SINV\PP,1] </s> ||| 0
+[GOAL] ||| <s> [NX/NP,1] </s> ||| <s> [NX/NP,1] </s> ||| 0
+[GOAL] ||| <s> [VP/JJ,1] </s> ||| <s> [VP/JJ,1] </s> ||| 0
+[GOAL] ||| <s> [NP\JJS,1] </s> ||| <s> [NP\JJS,1] </s> ||| 0
+[GOAL] ||| <s> [NX/NN,1] </s> ||| <s> [NX/NN,1] </s> ||| 0
+[GOAL] ||| <s> [X,1] </s> ||| <s> [X,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/SYM,1] </s> ||| <s> [ADJP/SYM,1] </s> ||| 0
+[GOAL] ||| <s> [NX/NX,1] </s> ||| <s> [NX/NX,1] </s> ||| 0
+[GOAL] ||| <s> [X/S,1] </s> ||| <s> [X/S,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\VB,1] </s> ||| <s> [SQ\VB,1] </s> ||| 0
+[GOAL] ||| <s> [CC,1] </s> ||| <s> [CC,1] </s> ||| 0
+[GOAL] ||| <s> [CD,1] </s> ||| <s> [CD,1] </s> ||| 0
+[GOAL] ||| <s> [SINV/VP,1] </s> ||| <s> [SINV/VP,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\UH,1] </s> ||| <s> [SQ\UH,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/NP,1] </s> ||| <s> [FRAG/NP,1] </s> ||| 0
+[GOAL] ||| <s> [WP$,1] </s> ||| <s> [WP$,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/NN,1] </s> ||| <s> [FRAG/NN,1] </s> ||| 0
+[GOAL] ||| <s> [UCP\NNP,1] </s> ||| <s> [UCP\NNP,1] </s> ||| 0
+[GOAL] ||| <s> [VP/RBS,1] </s> ||| <s> [VP/RBS,1] </s> ||| 0
+[GOAL] ||| <s> [PP/ADJP,1] </s> ||| <s> [PP/ADJP,1] </s> ||| 0
+[GOAL] ||| <s> [VP/RBR,1] </s> ||| <s> [VP/RBR,1] </s> ||| 0
+[GOAL] ||| <s> [NP/SBARQ,1] </s> ||| <s> [NP/SBARQ,1] </s> ||| 0
+[GOAL] ||| <s> [VP/IN,1] </s> ||| <s> [VP/IN,1] </s> ||| 0
+[GOAL] ||| <s> [UCP\PP,1] </s> ||| <s> [UCP\PP,1] </s> ||| 0
+[GOAL] ||| <s> [INTJ/.,1] </s> ||| <s> [INTJ/.,1] </s> ||| 0
+[GOAL] ||| <s> [INTJ/:,1] </s> ||| <s> [INTJ/:,1] </s> ||| 0
+[GOAL] ||| <s> [WHADVP\WRB,1] </s> ||| <s> [WHADVP\WRB,1] </s> ||| 0
+[GOAL] ||| <s> [UCP/VP,1] </s> ||| <s> [UCP/VP,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\PP,1] </s> ||| <s> [SQ\PP,1] </s> ||| 0
+[GOAL] ||| <s> [SINV\IN,1] </s> ||| <s> [SINV\IN,1] </s> ||| 0
+[GOAL] ||| <s> [DT,1] </s> ||| <s> [DT,1] </s> ||| 0
+[GOAL] ||| <s> [SINV\JJ,1] </s> ||| <s> [SINV\JJ,1] </s> ||| 0
+[GOAL] ||| <s> [S\VBZ,1] </s> ||| <s> [S\VBZ,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\SBARQ,1] </s> ||| <s> [SBARQ\SBARQ,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/.,1] </s> ||| <s> [SQ/.,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/WP,1] </s> ||| <s> [SQ/WP,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/VBN,1] </s> ||| <s> [ADJP/VBN,1] </s> ||| 0
+[GOAL] ||| <s> [PP/POS,1] </s> ||| <s> [PP/POS,1] </s> ||| 0
+[GOAL] ||| <s> [S\VBN,1] </s> ||| <s> [S\VBN,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/VBP,1] </s> ||| <s> [ADJP/VBP,1] </s> ||| 0
+[GOAL] ||| <s> [VP/FW,1] </s> ||| <s> [VP/FW,1] </s> ||| 0
+[GOAL] ||| <s> [S\VBP,1] </s> ||| <s> [S\VBP,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/VBD,1] </s> ||| <s> [ADJP/VBD,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/VBG,1] </s> ||| <s> [ADJP/VBG,1] </s> ||| 0
+[GOAL] ||| <s> [S\VBG,1] </s> ||| <s> [S\VBG,1] </s> ||| 0
+[GOAL] ||| <s> [S/ADJP,1] </s> ||| <s> [S/ADJP,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/JJR,1] </s> ||| <s> [ADVP/JJR,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/RBR,1] </s> ||| <s> [SBAR/RBR,1] </s> ||| 0
+[GOAL] ||| <s> [EX,1] </s> ||| <s> [EX,1] </s> ||| 0
+[GOAL] ||| <s> [S\VBD,1] </s> ||| <s> [S\VBD,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/JJS,1] </s> ||| <s> [ADVP/JJS,1] </s> ||| 0
+[GOAL] ||| <s> [VP/FRAG,1] </s> ||| <s> [VP/FRAG,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP/WDT,1] </s> ||| <s> [WHNP/WDT,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\NP,1] </s> ||| <s> [SQ\NP,1] </s> ||| 0
+[GOAL] ||| <s> [SINV/PP,1] </s> ||| <s> [SINV/PP,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/ADJP,1] </s> ||| <s> [ADJP/ADJP,1] </s> ||| 0
+[GOAL] ||| <s> [UCP\NN,1] </s> ||| <s> [UCP\NN,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/VP,1] </s> ||| <s> [SQ/VP,1] </s> ||| 0
+[GOAL] ||| <s> [UCP\NP,1] </s> ||| <s> [UCP\NP,1] </s> ||| 0
+[GOAL] ||| <s> [PRN/COMMA,1] </s> ||| <s> [PRN/COMMA,1] </s> ||| 0
+[GOAL] ||| <s> [VP/ADVP,1] </s> ||| <s> [VP/ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/S,1] </s> ||| <s> [SQ/S,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\:,1] </s> ||| <s> [FRAG\:,1] </s> ||| 0
+[GOAL] ||| <s> [WRB,1] </s> ||| <s> [WRB,1] </s> ||| 0
+[GOAL] ||| <s> [VP/EX,1] </s> ||| <s> [VP/EX,1] </s> ||| 0
+[GOAL] ||| <s> [NP/VBN,1] </s> ||| <s> [NP/VBN,1] </s> ||| 0
+[GOAL] ||| <s> [NP/VBP,1] </s> ||| <s> [NP/VBP,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/VBZ,1] </s> ||| <s> [ADJP/VBZ,1] </s> ||| 0
+[GOAL] ||| <s> [FW,1] </s> ||| <s> [FW,1] </s> ||| 0
+[GOAL] ||| <s> [NP/VBD,1] </s> ||| <s> [NP/VBD,1] </s> ||| 0
+[GOAL] ||| <s> [NP\NNS,1] </s> ||| <s> [NP\NNS,1] </s> ||| 0
+[GOAL] ||| <s> [NP/VBG,1] </s> ||| <s> [NP/VBG,1] </s> ||| 0
+[GOAL] ||| <s> [NP\PRP,1] </s> ||| <s> [NP\PRP,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\RB,1] </s> ||| <s> [SQ\RB,1] </s> ||| 0
+[GOAL] ||| <s> [NP\NNP,1] </s> ||| <s> [NP\NNP,1] </s> ||| 0
+[GOAL] ||| <s> [WHADVP,1] </s> ||| <s> [WHADVP,1] </s> ||| 0
+[GOAL] ||| <s> [VP/DT,1] </s> ||| <s> [VP/DT,1] </s> ||| 0
+[GOAL] ||| <s> [NX\JJ,1] </s> ||| <s> [NX\JJ,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP/RB,1] </s> ||| <s> [WHNP/RB,1] </s> ||| 0
+[GOAL] ||| <s> [SINV/RB,1] </s> ||| <s> [SINV/RB,1] </s> ||| 0
+[GOAL] ||| <s> [NP/-RRB-,1] </s> ||| <s> [NP/-RRB-,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/JJ,1] </s> ||| <s> [FRAG/JJ,1] </s> ||| 0
+[GOAL] ||| <s> [PP\-LRB-,1] </s> ||| <s> [PP\-LRB-,1] </s> ||| 0
+[GOAL] ||| <s> [VP/-RRB-,1] </s> ||| <s> [VP/-RRB-,1] </s> ||| 0
+[GOAL] ||| <s> [NP\CONJP,1] </s> ||| <s> [NP\CONJP,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP\NNP,1] </s> ||| <s> [ADJP\NNP,1] </s> ||| 0
+[GOAL] ||| <s> [NAC/VP,1] </s> ||| <s> [NAC/VP,1] </s> ||| 0
+[GOAL] ||| <s> [NP/VBZ,1] </s> ||| <s> [NP/VBZ,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\X,1] </s> ||| <s> [FRAG\X,1] </s> ||| 0
+[GOAL] ||| <s> [PP/PRN,1] </s> ||| <s> [PP/PRN,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\S,1] </s> ||| <s> [FRAG\S,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\WDT,1] </s> ||| <s> [SBAR\WDT,1] </s> ||| 0
+[GOAL] ||| <s> [PP/PRP,1] </s> ||| <s> [PP/PRP,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/DT,1] </s> ||| <s> [ADJP/DT,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP\CD,1] </s> ||| <s> [WHNP\CD,1] </s> ||| 0
+[GOAL] ||| <s> [S\FRAG,1] </s> ||| <s> [S\FRAG,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP/NNS,1] </s> ||| <s> [WHNP/NNS,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP/PRP,1] </s> ||| <s> [WHNP/PRP,1] </s> ||| 0
+[GOAL] ||| <s> [VP/TO,1] </s> ||| <s> [VP/TO,1] </s> ||| 0
+[GOAL] ||| <s> [VP\MD,1] </s> ||| <s> [VP\MD,1] </s> ||| 0
+[GOAL] ||| <s> [RRC/PP,1] </s> ||| <s> [RRC/PP,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ,1] </s> ||| <s> [SBARQ,1] </s> ||| 0
+[GOAL] ||| <s> [VP\NNS,1] </s> ||| <s> [VP\NNS,1] </s> ||| 0
+[GOAL] ||| <s> [IN,1] </s> ||| <s> [IN,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/CD,1] </s> ||| <s> [ADJP/CD,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP\DT,1] </s> ||| <s> [WHNP\DT,1] </s> ||| 0
+[GOAL] ||| <s> [VP/SQ,1] </s> ||| <s> [VP/SQ,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/ADVP,1] </s> ||| <s> [ADJP/ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [PP/PRP$,1] </s> ||| <s> [PP/PRP$,1] </s> ||| 0
+[GOAL] ||| <s> [WHADJP/JJ,1] </s> ||| <s> [WHADJP/JJ,1] </s> ||| 0
+[GOAL] ||| <s> [VP\NNP,1] </s> ||| <s> [VP\NNP,1] </s> ||| 0
+[GOAL] ||| <s> [NP/OOV,1] </s> ||| <s> [NP/OOV,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ/DT,1] </s> ||| <s> [SBARQ/DT,1] </s> ||| 0
+[GOAL] ||| <s> [JJ,1] </s> ||| <s> [JJ,1] </s> ||| 0
+[GOAL] ||| <s> [PP/NNPS,1] </s> ||| <s> [PP/NNPS,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP\RBR,1] </s> ||| <s> [ADVP\RBR,1] </s> ||| 0
+[GOAL] ||| <s> [VP/RB,1] </s> ||| <s> [VP/RB,1] </s> ||| 0
+[GOAL] ||| <s> [NP/SYM,1] </s> ||| <s> [NP/SYM,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP\JJS,1] </s> ||| <s> [ADJP\JJS,1] </s> ||| 0
+[GOAL] ||| <s> [SINV\VBN,1] </s> ||| <s> [SINV\VBN,1] </s> ||| 0
+[GOAL] ||| <s> [X/CD,1] </s> ||| <s> [X/CD,1] </s> ||| 0
+[GOAL] ||| <s> [VP/RP,1] </s> ||| <s> [VP/RP,1] </s> ||| 0
+[GOAL] ||| <s> [SINV\VBZ,1] </s> ||| <s> [SINV\VBZ,1] </s> ||| 0
+[GOAL] ||| <s> [S\NAC,1] </s> ||| <s> [S\NAC,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\WRB,1] </s> ||| <s> [SBAR\WRB,1] </s> ||| 0
+[GOAL] ||| <s> [COMMA,1] </s> ||| <s> [COMMA,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/-RRB-,1] </s> ||| <s> [FRAG/-RRB-,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/FRAG,1] </s> ||| <s> [ADJP/FRAG,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/VP,1] </s> ||| <s> [FRAG/VP,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\CONJP,1] </s> ||| <s> [FRAG\CONJP,1] </s> ||| 0
+[GOAL] ||| <s> [VP\IN,1] </s> ||| <s> [VP\IN,1] </s> ||| 0
+[GOAL] ||| <s> [NX\NN,1] </s> ||| <s> [NX\NN,1] </s> ||| 0
+[GOAL] ||| <s> [VP/VBZ,1] </s> ||| <s> [VP/VBZ,1] </s> ||| 0
+[GOAL] ||| <s> [NX\NX,1] </s> ||| <s> [NX\NX,1] </s> ||| 0
+[GOAL] ||| <s> [S\PDT,1] </s> ||| <s> [S\PDT,1] </s> ||| 0
+[GOAL] ||| <s> [NX/VP,1] </s> ||| <s> [NX/VP,1] </s> ||| 0
+[GOAL] ||| <s> [VP/VBP,1] </s> ||| <s> [VP/VBP,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP\JJR,1] </s> ||| <s> [ADJP\JJR,1] </s> ||| 0
+[GOAL] ||| <s> [VP/VBN,1] </s> ||| <s> [VP/VBN,1] </s> ||| 0
+[GOAL] ||| <s> [VP/QP,1] </s> ||| <s> [VP/QP,1] </s> ||| 0
+[GOAL] ||| <s> [SINV\VBG,1] </s> ||| <s> [SINV\VBG,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP/NP,1] </s> ||| <s> [WHNP/NP,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP/NN,1] </s> ||| <s> [WHNP/NN,1] </s> ||| 0
+[GOAL] ||| <s> [VP/VBG,1] </s> ||| <s> [VP/VBG,1] </s> ||| 0
+[GOAL] ||| <s> [SINV/NN,1] </s> ||| <s> [SINV/NN,1] </s> ||| 0
+[GOAL] ||| <s> [SINV/NP,1] </s> ||| <s> [SINV/NP,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\NP,1] </s> ||| <s> [FRAG\NP,1] </s> ||| 0
+[GOAL] ||| <s> [VP/VBD,1] </s> ||| <s> [VP/VBD,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\NN,1] </s> ||| <s> [FRAG\NN,1] </s> ||| 0
+[GOAL] ||| <s> [INTJ\NNP,1] </s> ||| <s> [INTJ\NNP,1] </s> ||| 0
+[GOAL] ||| <s> [QP\$,1] </s> ||| <s> [QP\$,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/-RRB-,1] </s> ||| <s> [ADJP/-RRB-,1] </s> ||| 0
+[GOAL] ||| <s> [NAC/COMMA,1] </s> ||| <s> [NAC/COMMA,1] </s> ||| 0
+[GOAL] ||| <s> [LS,1] </s> ||| <s> [LS,1] </s> ||| 0
+[GOAL] ||| <s> [UCP\ADVP,1] </s> ||| <s> [UCP\ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [QP/JJR,1] </s> ||| <s> [QP/JJR,1] </s> ||| 0
+[GOAL] ||| <s> [VP/PP,1] </s> ||| <s> [VP/PP,1] </s> ||| 0
+[GOAL] ||| <s> [LST\-LRB-,1] </s> ||| <s> [LST\-LRB-,1] </s> ||| 0
+[GOAL] ||| <s> [MD,1] </s> ||| <s> [MD,1] </s> ||| 0
+[GOAL] ||| <s> [QP\SYM,1] </s> ||| <s> [QP\SYM,1] </s> ||| 0
+[GOAL] ||| <s> [S/WRB,1] </s> ||| <s> [S/WRB,1] </s> ||| 0
+[GOAL] ||| <s> [S\RBR,1] </s> ||| <s> [S\RBR,1] </s> ||| 0
+[GOAL] ||| <s> [INTJ/VBZ,1] </s> ||| <s> [INTJ/VBZ,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/S,1] </s> ||| <s> [SBAR/S,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/X,1] </s> ||| <s> [SBAR/X,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ/S,1] </s> ||| <s> [SBARQ/S,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/PP,1] </s> ||| <s> [FRAG/PP,1] </s> ||| 0
+[GOAL] ||| <s> [UCP/ADVP,1] </s> ||| <s> [UCP/ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [UCP\VP,1] </s> ||| <s> [UCP\VP,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\WP$,1] </s> ||| <s> [SBAR\WP$,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/VBP,1] </s> ||| <s> [FRAG/VBP,1] </s> ||| 0
+[GOAL] ||| <s> [NN,1] </s> ||| <s> [NN,1] </s> ||| 0
+[GOAL] ||| <s> [X/FW,1] </s> ||| <s> [X/FW,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ/SBARQ,1] </s> ||| <s> [SBARQ/SBARQ,1] </s> ||| 0
+[GOAL] ||| <s> [NP,1] </s> ||| <s> [NP,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ/:,1] </s> ||| <s> [SBARQ/:,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/VBG,1] </s> ||| <s> [SQ/VBG,1] </s> ||| 0
+[GOAL] ||| <s> [PRN\-LRB-,1] </s> ||| <s> [PRN\-LRB-,1] </s> ||| 0
+[GOAL] ||| <s> [NX,1] </s> ||| <s> [NX,1] </s> ||| 0
+[GOAL] ||| <s> [UCP/S,1] </s> ||| <s> [UCP/S,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/COMMA,1] </s> ||| <s> [SBAR/COMMA,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ/.,1] </s> ||| <s> [SBARQ/.,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/VBZ,1] </s> ||| <s> [SQ/VBZ,1] </s> ||| 0
+[GOAL] ||| <s> [VP/NN,1] </s> ||| <s> [VP/NN,1] </s> ||| 0
+[GOAL] ||| <s> [VP/NP,1] </s> ||| <s> [VP/NP,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\IN,1] </s> ||| <s> [FRAG\IN,1] </s> ||| 0
+[GOAL] ||| <s> [RRC/NN,1] </s> ||| <s> [RRC/NN,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/VBP,1] </s> ||| <s> [SQ/VBP,1] </s> ||| 0
+[GOAL] ||| <s> [RRC/NP,1] </s> ||| <s> [RRC/NP,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/VBN,1] </s> ||| <s> [SQ/VBN,1] </s> ||| 0
+[GOAL] ||| <s> [VP/NX,1] </s> ||| <s> [VP/NX,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\NNS,1] </s> ||| <s> [FRAG\NNS,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\NNP,1] </s> ||| <s> [FRAG\NNP,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\PRP,1] </s> ||| <s> [FRAG\PRP,1] </s> ||| 0
+[GOAL] ||| <s> [VP/MD,1] </s> ||| <s> [VP/MD,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\PRN,1] </s> ||| <s> [FRAG\PRN,1] </s> ||| 0
+[GOAL] ||| <s> [SINV\CC,1] </s> ||| <s> [SINV\CC,1] </s> ||| 0
+[GOAL] ||| <s> [SINV/JJ,1] </s> ||| <s> [SINV/JJ,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/RB,1] </s> ||| <s> [FRAG/RB,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/.,1] </s> ||| <s> [SBAR/.,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\JJ,1] </s> ||| <s> [FRAG\JJ,1] </s> ||| 0
+[GOAL] ||| <s> [PP,1] </s> ||| <s> [PP,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP\PDT,1] </s> ||| <s> [ADVP\PDT,1] </s> ||| 0
+[GOAL] ||| <s> [VP/:,1] </s> ||| <s> [VP/:,1] </s> ||| 0
+[GOAL] ||| <s> [S/ADVP,1] </s> ||| <s> [S/ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ/NN,1] </s> ||| <s> [SBARQ/NN,1] </s> ||| 0
+[GOAL] ||| <s> [VP\UH,1] </s> ||| <s> [VP\UH,1] </s> ||| 0
+[GOAL] ||| <s> [VP/S,1] </s> ||| <s> [VP/S,1] </s> ||| 0
+[GOAL] ||| <s> [QP,1] </s> ||| <s> [QP,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/NNP,1] </s> ||| <s> [SBAR/NNP,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/NNS,1] </s> ||| <s> [SBAR/NNS,1] </s> ||| 0
+[GOAL] ||| <s> [NAC/-RRB-,1] </s> ||| <s> [NAC/-RRB-,1] </s> ||| 0
+[GOAL] ||| <s> [PP\VBG,1] </s> ||| <s> [PP\VBG,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/COMMA,1] </s> ||| <s> [ADJP/COMMA,1] </s> ||| 0
+[GOAL] ||| <s> [RB,1] </s> ||| <s> [RB,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/S,1] </s> ||| <s> [ADVP/S,1] </s> ||| 0
+[GOAL] ||| <s> [VP/.,1] </s> ||| <s> [VP/.,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\RB,1] </s> ||| <s> [SBAR\RB,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\WHNP,1] </s> ||| <s> [SBAR\WHNP,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\S,1] </s> ||| <s> [SBARQ\S,1] </s> ||| 0
+[GOAL] ||| <s> [VP\TO,1] </s> ||| <s> [VP\TO,1] </s> ||| 0
+[GOAL] ||| <s> [RP,1] </s> ||| <s> [RP,1] </s> ||| 0
+[GOAL] ||| <s> [X\WRB,1] </s> ||| <s> [X\WRB,1] </s> ||| 0
+[GOAL] ||| <s> [S/SYM,1] </s> ||| <s> [S/SYM,1] </s> ||| 0
+[GOAL] ||| <s> [PP/CC,1] </s> ||| <s> [PP/CC,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\QP,1] </s> ||| <s> [SBAR\QP,1] </s> ||| 0
+[GOAL] ||| <s> [QP/PDT,1] </s> ||| <s> [QP/PDT,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/COMMA,1] </s> ||| <s> [FRAG/COMMA,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\DT,1] </s> ||| <s> [SBARQ\DT,1] </s> ||| 0
+[GOAL] ||| <s> [X\CD,1] </s> ||| <s> [X\CD,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP\WRB,1] </s> ||| <s> [WHNP\WRB,1] </s> ||| 0
+[GOAL] ||| <s> [PP\VBN,1] </s> ||| <s> [PP\VBN,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\WHNP,1] </s> ||| <s> [FRAG\WHNP,1] </s> ||| 0
+[GOAL] ||| <s> [PP/SBAR,1] </s> ||| <s> [PP/SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [PP/CD,1] </s> ||| <s> [PP/CD,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/PRN,1] </s> ||| <s> [SBAR/PRN,1] </s> ||| 0
+[GOAL] ||| <s> [SQ,1] </s> ||| <s> [SQ,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/PRP,1] </s> ||| <s> [SBAR/PRP,1] </s> ||| 0
+[GOAL] ||| <s> [PRN\:,1] </s> ||| <s> [PRN\:,1] </s> ||| 0
+[GOAL] ||| <s> [VP/X,1] </s> ||| <s> [VP/X,1] </s> ||| 0
+[GOAL] ||| <s> [PP/-RRB-,1] </s> ||| <s> [PP/-RRB-,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/.,1] </s> ||| <s> [ADVP/.,1] </s> ||| 0
+[GOAL] ||| <s> [S\SBAR,1] </s> ||| <s> [S\SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\WDT,1] </s> ||| <s> [FRAG\WDT,1] </s> ||| 0
+[GOAL] ||| <s> [VP\RB,1] </s> ||| <s> [VP\RB,1] </s> ||| 0
+[GOAL] ||| <s> [PP/DT,1] </s> ||| <s> [PP/DT,1] </s> ||| 0
+[GOAL] ||| <s> [OOV,1] </s> ||| <s> [OOV,1] </s> ||| 0
+[GOAL] ||| <s> [S/FRAG,1] </s> ||| <s> [S/FRAG,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/WP,1] </s> ||| <s> [SBAR/WP,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\CC,1] </s> ||| <s> [SBARQ\CC,1] </s> ||| 0
+[GOAL] ||| <s> [TO,1] </s> ||| <s> [TO,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\CD,1] </s> ||| <s> [SBARQ\CD,1] </s> ||| 0
+[GOAL] ||| <s> [X/JJ,1] </s> ||| <s> [X/JJ,1] </s> ||| 0
+[GOAL] ||| <s> [VP\PP,1] </s> ||| <s> [VP\PP,1] </s> ||| 0
+[GOAL] ||| <s> [WHADVP/RB,1] </s> ||| <s> [WHADVP/RB,1] </s> ||| 0
+[GOAL] ||| <s> [NP/PDT,1] </s> ||| <s> [NP/PDT,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP\WP,1] </s> ||| <s> [WHNP\WP,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP\WP$,1] </s> ||| <s> [WHNP\WP$,1] </s> ||| 0
+[GOAL] ||| <s> [UH,1] </s> ||| <s> [UH,1] </s> ||| 0
+[GOAL] ||| <s> [NP/NNPS,1] </s> ||| <s> [NP/NNPS,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/VP,1] </s> ||| <s> [SBAR/VP,1] </s> ||| 0
+[GOAL] ||| <s> [SINV/SBAR,1] </s> ||| <s> [SINV/SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/SBAR,1] </s> ||| <s> [ADJP/SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\NP,1] </s> ||| <s> [SBAR\NP,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\NN,1] </s> ||| <s> [SBAR\NN,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/VB,1] </s> ||| <s> [SBAR/VB,1] </s> ||| 0
+[GOAL] ||| <s> [SYM,1] </s> ||| <s> [SYM,1] </s> ||| 0
+[GOAL] ||| <s> [PRN/-RRB-,1] </s> ||| <s> [PRN/-RRB-,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\PRP$,1] </s> ||| <s> [FRAG\PRP$,1] </s> ||| 0
+[GOAL] ||| <s> [VB,1] </s> ||| <s> [VB,1] </s> ||| 0
+[GOAL] ||| <s> [VP/WP,1] </s> ||| <s> [VP/WP,1] </s> ||| 0
+[GOAL] ||| <s> [NP/NAC,1] </s> ||| <s> [NP/NAC,1] </s> ||| 0
+[GOAL] ||| <s> [VP,1] </s> ||| <s> [VP,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/SBAR,1] </s> ||| <s> [ADVP/SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [X\DT,1] </s> ||| <s> [X\DT,1] </s> ||| 0
+[GOAL] ||| <s> [NP/COMMA,1] </s> ||| <s> [NP/COMMA,1] </s> ||| 0
+[GOAL] ||| <s> [VP/VB,1] </s> ||| <s> [VP/VB,1] </s> ||| 0
+[GOAL] ||| <s> [VP\NN,1] </s> ||| <s> [VP\NN,1] </s> ||| 0
+[GOAL] ||| <s> [NX/NNP,1] </s> ||| <s> [NX/NNP,1] </s> ||| 0
+[GOAL] ||| <s> [VP\NP,1] </s> ||| <s> [VP\NP,1] </s> ||| 0
+[GOAL] ||| <s> [NX/NNS,1] </s> ||| <s> [NX/NNS,1] </s> ||| 0
+[GOAL] ||| <s> [QP/CD,1] </s> ||| <s> [QP/CD,1] </s> ||| 0
+[GOAL] ||| <s> [VP/VP,1] </s> ||| <s> [VP/VP,1] </s> ||| 0
+[GOAL] ||| <s> [NX/PRN,1] </s> ||| <s> [NX/PRN,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/TO,1] </s> ||| <s> [SBAR/TO,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\VBD,1] </s> ||| <s> [SQ\VBD,1] </s> ||| 0
+[GOAL] ||| <s> [WP,1] </s> ||| <s> [WP,1] </s> ||| 0
+[GOAL] ||| <s> [S\$,1] </s> ||| <s> [S\$,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\VBP,1] </s> ||| <s> [SQ\VBP,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR,1] </s> ||| <s> [SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [VP/UH,1] </s> ||| <s> [VP/UH,1] </s> ||| 0
+[GOAL] ||| <s> [VP/SYM,1] </s> ||| <s> [VP/SYM,1] </s> ||| 0
+[GOAL] ||| <s> [X/SBAR,1] </s> ||| <s> [X/SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [S\:,1] </s> ||| <s> [S\:,1] </s> ||| 0
+[GOAL] ||| <s> [X/NP,1] </s> ||| <s> [X/NP,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\VBZ,1] </s> ||| <s> [SQ\VBZ,1] </s> ||| 0
+[GOAL] ||| <s> [VP\ADVP,1] </s> ||| <s> [VP\ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [PP\COMMA,1] </s> ||| <s> [PP\COMMA,1] </s> ||| 0
+[GOAL] ||| <s> [X\FW,1] </s> ||| <s> [X\FW,1] </s> ||| 0
+[GOAL] ||| <s> [X/NN,1] </s> ||| <s> [X/NN,1] </s> ||| 0
+[GOAL] ||| <s> [PP/NNP,1] </s> ||| <s> [PP/NNP,1] </s> ||| 0
+[GOAL] ||| <s> [PP/NNS,1] </s> ||| <s> [PP/NNS,1] </s> ||| 0
+[GOAL] ||| <s> [NX/-RRB-,1] </s> ||| <s> [NX/-RRB-,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ/VP,1] </s> ||| <s> [SBARQ/VP,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/CD,1] </s> ||| <s> [FRAG/CD,1] </s> ||| 0
+[GOAL] ||| <s> [S\S,1] </s> ||| <s> [S\S,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\INTJ,1] </s> ||| <s> [SBARQ\INTJ,1] </s> ||| 0
+[GOAL] ||| <s> [S\X,1] </s> ||| <s> [S\X,1] </s> ||| 0
+[GOAL] ||| <s> [PP/IN,1] </s> ||| <s> [PP/IN,1] </s> ||| 0
+[GOAL] ||| <s> [VBD,1] </s> ||| <s> [VBD,1] </s> ||| 0
+[GOAL] ||| <s> [PRN\COMMA,1] </s> ||| <s> [PRN\COMMA,1] </s> ||| 0
+[GOAL] ||| <s> [VBG,1] </s> ||| <s> [VBG,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ/VB,1] </s> ||| <s> [SBARQ/VB,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\NN,1] </s> ||| <s> [SBARQ\NN,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\NP,1] </s> ||| <s> [SBARQ\NP,1] </s> ||| 0
+[GOAL] ||| <s> [WHADJP\RB,1] </s> ||| <s> [WHADJP\RB,1] </s> ||| 0
+[GOAL] ||| <s> [VBN,1] </s> ||| <s> [VBN,1] </s> ||| 0
+[GOAL] ||| <s> [PP/JJ,1] </s> ||| <s> [PP/JJ,1] </s> ||| 0
+[GOAL] ||| <s> [VBP,1] </s> ||| <s> [VBP,1] </s> ||| 0
+[GOAL] ||| <s> [INTJ/INTJ,1] </s> ||| <s> [INTJ/INTJ,1] </s> ||| 0
+[GOAL] ||| <s> [QP/NN,1] </s> ||| <s> [QP/NN,1] </s> ||| 0
+[GOAL] ||| <s> [VBZ,1] </s> ||| <s> [VBZ,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP\RB,1] </s> ||| <s> [ADVP\RB,1] </s> ||| 0
+[GOAL] ||| <s> [PP\CD,1] </s> ||| <s> [PP\CD,1] </s> ||| 0
+[GOAL] ||| <s> [PP\CC,1] </s> ||| <s> [PP\CC,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP/COMMA,1] </s> ||| <s> [WHNP/COMMA,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/ADVP,1] </s> ||| <s> [FRAG/ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [S\NNS,1] </s> ||| <s> [S\NNS,1] </s> ||| 0
+[GOAL] ||| <s> [S\PRP,1] </s> ||| <s> [S\PRP,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\-LRB-,1] </s> ||| <s> [SBAR\-LRB-,1] </s> ||| 0
+[GOAL] ||| <s> [S\NNP,1] </s> ||| <s> [S\NNP,1] </s> ||| 0
+[GOAL] ||| <s> [X/PP,1] </s> ||| <s> [X/PP,1] </s> ||| 0
+[GOAL] ||| <s> [NP\LST,1] </s> ||| <s> [NP\LST,1] </s> ||| 0
+[GOAL] ||| <s> [S\PRN,1] </s> ||| <s> [S\PRN,1] </s> ||| 0
+[GOAL] ||| <s> [-LRB-,1] </s> ||| <s> [-LRB-,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/.,1] </s> ||| <s> [FRAG/.,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/:,1] </s> ||| <s> [FRAG/:,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/UCP,1] </s> ||| <s> [SBAR/UCP,1] </s> ||| 0
+[GOAL] ||| <s> [VP\RBS,1] </s> ||| <s> [VP\RBS,1] </s> ||| 0
+[GOAL] ||| <s> [VP\RBR,1] </s> ||| <s> [VP\RBR,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/ADVP,1] </s> ||| <s> [SBAR/ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [S/SBARQ,1] </s> ||| <s> [S/SBARQ,1] </s> ||| 0
+[GOAL] ||| <s> [WHPP/NNS,1] </s> ||| <s> [WHPP/NNS,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP\QP,1] </s> ||| <s> [ADVP\QP,1] </s> ||| 0
+[GOAL] ||| <s> [SINV\S,1] </s> ||| <s> [SINV\S,1] </s> ||| 0
+[GOAL] ||| <s> [PP\DT,1] </s> ||| <s> [PP\DT,1] </s> ||| 0
+[GOAL] ||| <s> [WHADVP/WRB,1] </s> ||| <s> [WHADVP/WRB,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/S,1] </s> ||| <s> [FRAG/S,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\SBAR,1] </s> ||| <s> [SQ\SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ/SQ,1] </s> ||| <s> [SBARQ/SQ,1] </s> ||| 0
+[GOAL] ||| <s> [X\JJ,1] </s> ||| <s> [X\JJ,1] </s> ||| 0
+[GOAL] ||| <s> [PRP$,1] </s> ||| <s> [PRP$,1] </s> ||| 0
+[GOAL] ||| <s> [UCP\ADJP,1] </s> ||| <s> [UCP\ADJP,1] </s> ||| 0
+[GOAL] ||| <s> [S\NNPS,1] </s> ||| <s> [S\NNPS,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP\$,1] </s> ||| <s> [ADJP\$,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\SYM,1] </s> ||| <s> [SBAR\SYM,1] </s> ||| 0
+[GOAL] ||| <s> [PP/JJR,1] </s> ||| <s> [PP/JJR,1] </s> ||| 0
+[GOAL] ||| <s> [LST/-RRB-,1] </s> ||| <s> [LST/-RRB-,1] </s> ||| 0
+[GOAL] ||| <s> [PP/JJS,1] </s> ||| <s> [PP/JJS,1] </s> ||| 0
+[GOAL] ||| <s> [VP/SBARQ,1] </s> ||| <s> [VP/SBARQ,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\WP,1] </s> ||| <s> [SBAR\WP,1] </s> ||| 0
+[GOAL] ||| <s> [NP/SBAR,1] </s> ||| <s> [NP/SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\SBAR,1] </s> ||| <s> [SBAR\SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [NP/DT,1] </s> ||| <s> [NP/DT,1] </s> ||| 0
+[GOAL] ||| <s> [UCP\RBR,1] </s> ||| <s> [UCP\RBR,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\WRB,1] </s> ||| <s> [FRAG\WRB,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/NNPS,1] </s> ||| <s> [ADJP/NNPS,1] </s> ||| 0
+[GOAL] ||| <s> [PRN/SBAR,1] </s> ||| <s> [PRN/SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\JJ,1] </s> ||| <s> [SBARQ\JJ,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP/WP,1] </s> ||| <s> [WHNP/WP,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ/RB,1] </s> ||| <s> [SBARQ/RB,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\IN,1] </s> ||| <s> [SBARQ\IN,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/JJR,1] </s> ||| <s> [SBAR/JJR,1] </s> ||| 0
+[GOAL] ||| <s> [QP\CD,1] </s> ||| <s> [QP\CD,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/JJS,1] </s> ||| <s> [SBAR/JJS,1] </s> ||| 0
+[GOAL] ||| <s> [QP\CC,1] </s> ||| <s> [QP\CC,1] </s> ||| 0
+[GOAL] ||| <s> [QP/JJ,1] </s> ||| <s> [QP/JJ,1] </s> ||| 0
+[GOAL] ||| <s> [S/CD,1] </s> ||| <s> [S/CD,1] </s> ||| 0
+[GOAL] ||| <s> [NP/CD,1] </s> ||| <s> [NP/CD,1] </s> ||| 0
+[GOAL] ||| <s> [PP/COMMA,1] </s> ||| <s> [PP/COMMA,1] </s> ||| 0
+[GOAL] ||| <s> [S/VBP,1] </s> ||| <s> [S/VBP,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\SBAR,1] </s> ||| <s> [FRAG\SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP\QP,1] </s> ||| <s> [WHNP\QP,1] </s> ||| 0
+[GOAL] ||| <s> [NP\UCP,1] </s> ||| <s> [NP\UCP,1] </s> ||| 0
+[GOAL] ||| <s> [VP/WHADJP,1] </s> ||| <s> [VP/WHADJP,1] </s> ||| 0
+[GOAL] ||| <s> [PP/FW,1] </s> ||| <s> [PP/FW,1] </s> ||| 0
+[GOAL] ||| <s> [S/VBN,1] </s> ||| <s> [S/VBN,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ/PP,1] </s> ||| <s> [SBARQ/PP,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP\RB,1] </s> ||| <s> [WHNP\RB,1] </s> ||| 0
+[GOAL] ||| <s> [S/VBZ,1] </s> ||| <s> [S/VBZ,1] </s> ||| 0
+[GOAL] ||| <s> [PP\ADVP,1] </s> ||| <s> [PP\ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [PP\SYM,1] </s> ||| <s> [PP\SYM,1] </s> ||| 0
+[GOAL] ||| <s> [SINV\ADVP,1] </s> ||| <s> [SINV\ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [WHPP/WDT,1] </s> ||| <s> [WHPP/WDT,1] </s> ||| 0
+[GOAL] ||| <s> [NNPS,1] </s> ||| <s> [NNPS,1] </s> ||| 0
+[GOAL] ||| <s> [S\PRP$,1] </s> ||| <s> [S\PRP$,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\TO,1] </s> ||| <s> [SBAR\TO,1] </s> ||| 0
+[GOAL] ||| <s> [S/DT,1] </s> ||| <s> [S/DT,1] </s> ||| 0
+[GOAL] ||| <s> [X\NN,1] </s> ||| <s> [X\NN,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP\WDT,1] </s> ||| <s> [WHNP\WDT,1] </s> ||| 0
+[GOAL] ||| <s> [VP\VB,1] </s> ||| <s> [VP\VB,1] </s> ||| 0
+[GOAL] ||| <s> [X\NP,1] </s> ||| <s> [X\NP,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ/NP,1] </s> ||| <s> [SBARQ/NP,1] </s> ||| 0
+[GOAL] ||| <s> [PP/UCP,1] </s> ||| <s> [PP/UCP,1] </s> ||| 0
+[GOAL] ||| <s> [S/VBD,1] </s> ||| <s> [S/VBD,1] </s> ||| 0
+[GOAL] ||| <s> [QP\DT,1] </s> ||| <s> [QP\DT,1] </s> ||| 0
+[GOAL] ||| <s> [S/VBG,1] </s> ||| <s> [S/VBG,1] </s> ||| 0
+[GOAL] ||| <s> [X/VP,1] </s> ||| <s> [X/VP,1] </s> ||| 0
+[GOAL] ||| <s> [VP\VP,1] </s> ||| <s> [VP\VP,1] </s> ||| 0
+[GOAL] ||| <s> [X/NNPS,1] </s> ||| <s> [X/NNPS,1] </s> ||| 0
+[GOAL] ||| <s> [INTJ/NNP,1] </s> ||| <s> [INTJ/NNP,1] </s> ||| 0
+[GOAL] ||| <s> [PP/QP,1] </s> ||| <s> [PP/QP,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\CD,1] </s> ||| <s> [SBAR\CD,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\CC,1] </s> ||| <s> [SBAR\CC,1] </s> ||| 0
+[GOAL] ||| <s> [QP\NP,1] </s> ||| <s> [QP\NP,1] </s> ||| 0
+[GOAL] ||| <s> [QP\NN,1] </s> ||| <s> [QP\NN,1] </s> ||| 0
+[GOAL] ||| <s> [PP\IN,1] </s> ||| <s> [PP\IN,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/JJ,1] </s> ||| <s> [SBAR/JJ,1] </s> ||| 0
+[GOAL] ||| <s> [PP\JJ,1] </s> ||| <s> [PP\JJ,1] </s> ||| 0
+[GOAL] ||| <s> [PP/RB,1] </s> ||| <s> [PP/RB,1] </s> ||| 0
+[GOAL] ||| <s> [S\LST,1] </s> ||| <s> [S\LST,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/WRB,1] </s> ||| <s> [SBAR/WRB,1] </s> ||| 0
+[GOAL] ||| <s> [X\SYM,1] </s> ||| <s> [X\SYM,1] </s> ||| 0
+[GOAL] ||| <s> [NP\SYM,1] </s> ||| <s> [NP\SYM,1] </s> ||| 0
+[GOAL] ||| <s> [NP/UCP,1] </s> ||| <s> [NP/UCP,1] </s> ||| 0
+[GOAL] ||| <s> [RBS,1] </s> ||| <s> [RBS,1] </s> ||| 0
+[GOAL] ||| <s> [RBR,1] </s> ||| <s> [RBR,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP\IN,1] </s> ||| <s> [ADVP\IN,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/IN,1] </s> ||| <s> [SBAR/IN,1] </s> ||| 0
+[GOAL] ||| <s> [S/FW,1] </s> ||| <s> [S/FW,1] </s> ||| 0
+[GOAL] ||| <s> [NP\ADVP,1] </s> ||| <s> [NP\ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/PRP,1] </s> ||| <s> [ADJP/PRP,1] </s> ||| 0
+[GOAL] ||| <s> [QP/OOV,1] </s> ||| <s> [QP/OOV,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/NNP,1] </s> ||| <s> [ADJP/NNP,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/NNS,1] </s> ||| <s> [ADJP/NNS,1] </s> ||| 0
+[GOAL] ||| <s> [PRN/VP,1] </s> ||| <s> [PRN/VP,1] </s> ||| 0
+[GOAL] ||| <s> [INTJ\UH,1] </s> ||| <s> [INTJ\UH,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\FRAG,1] </s> ||| <s> [FRAG\FRAG,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/RB,1] </s> ||| <s> [ADVP/RB,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/PRN,1] </s> ||| <s> [ADJP/PRN,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP\JJ,1] </s> ||| <s> [ADVP\JJ,1] </s> ||| 0
+[GOAL] ||| <s> [UCP/JJR,1] </s> ||| <s> [UCP/JJR,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP\ADVP,1] </s> ||| <s> [ADVP\ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [S/IN,1] </s> ||| <s> [S/IN,1] </s> ||| 0
+[GOAL] ||| <s> [INTJ\VB,1] </s> ||| <s> [INTJ\VB,1] </s> ||| 0
+[GOAL] ||| <s> [NP/FW,1] </s> ||| <s> [NP/FW,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\UH,1] </s> ||| <s> [SBARQ\UH,1] </s> ||| 0
+[GOAL] ||| <s> [NP/EX,1] </s> ||| <s> [NP/EX,1] </s> ||| 0
+[GOAL] ||| <s> [VP\VBP,1] </s> ||| <s> [VP\VBP,1] </s> ||| 0
+[GOAL] ||| <s> [VP\VBN,1] </s> ||| <s> [VP\VBN,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\TO,1] </s> ||| <s> [SBARQ\TO,1] </s> ||| 0
+[GOAL] ||| <s> [S/JJ,1] </s> ||| <s> [S/JJ,1] </s> ||| 0
+[GOAL] ||| <s> [SINV\ADJP,1] </s> ||| <s> [SINV\ADJP,1] </s> ||| 0
+[GOAL] ||| <s> [VP\VBZ,1] </s> ||| <s> [VP\VBZ,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\ADVP,1] </s> ||| <s> [FRAG\ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [PP/TO,1] </s> ||| <s> [PP/TO,1] </s> ||| 0
+[GOAL] ||| <s> [UCP/SBAR,1] </s> ||| <s> [UCP/SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [VP/SBAR,1] </s> ||| <s> [VP/SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/PP,1] </s> ||| <s> [ADVP/PP,1] </s> ||| 0
+[GOAL] ||| <s> [NAC/ADJP,1] </s> ||| <s> [NAC/ADJP,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP\JJR,1] </s> ||| <s> [ADVP\JJR,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\ADVP,1] </s> ||| <s> [SBAR\ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP,1] </s> ||| <s> [WHNP,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP\NP,1] </s> ||| <s> [ADVP\NP,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/VB,1] </s> ||| <s> [ADVP/VB,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\PRP,1] </s> ||| <s> [SBARQ\PRP,1] </s> ||| 0
+[GOAL] ||| <s> [NP\:,1] </s> ||| <s> [NP\:,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP\QP,1] </s> ||| <s> [ADJP\QP,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\NNP,1] </s> ||| <s> [SBARQ\NNP,1] </s> ||| 0
+[GOAL] ||| <s> [QP\JJ,1] </s> ||| <s> [QP\JJ,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ/VBP,1] </s> ||| <s> [SBARQ/VBP,1] </s> ||| 0
+[GOAL] ||| <s> [QP\IN,1] </s> ||| <s> [QP\IN,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/-RRB-,1] </s> ||| <s> [ADVP/-RRB-,1] </s> ||| 0
+[GOAL] ||| <s> [UCP\VBG,1] </s> ||| <s> [UCP\VBG,1] </s> ||| 0
+[GOAL] ||| <s> [NP\DT,1] </s> ||| <s> [NP\DT,1] </s> ||| 0
+[GOAL] ||| <s> [NP\X,1] </s> ||| <s> [NP\X,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/ADJP,1] </s> ||| <s> [ADVP/ADJP,1] </s> ||| 0
+[GOAL] ||| <s> [S\DT,1] </s> ||| <s> [S\DT,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/VBP,1] </s> ||| <s> [ADVP/VBP,1] </s> ||| 0
+[GOAL] ||| <s> [PP\FW,1] </s> ||| <s> [PP\FW,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/VBN,1] </s> ||| <s> [ADVP/VBN,1] </s> ||| 0
+[GOAL] ||| <s> [S\WDT,1] </s> ||| <s> [S\WDT,1] </s> ||| 0
+[GOAL] ||| <s> [PP/NN,1] </s> ||| <s> [PP/NN,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\RB,1] </s> ||| <s> [SBARQ\RB,1] </s> ||| 0
+[GOAL] ||| <s> [S\CD,1] </s> ||| <s> [S\CD,1] </s> ||| 0
+[GOAL] ||| <s> [NP\$,1] </s> ||| <s> [NP\$,1] </s> ||| 0
+[GOAL] ||| <s> [S\CC,1] </s> ||| <s> [S\CC,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/VBZ,1] </s> ||| <s> [ADVP/VBZ,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ/VBG,1] </s> ||| <s> [SBARQ/VBG,1] </s> ||| 0
+[GOAL] ||| <s> [X/NNS,1] </s> ||| <s> [X/NNS,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/VP,1] </s> ||| <s> [ADVP/VP,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/JJR,1] </s> ||| <s> [ADJP/JJR,1] </s> ||| 0
+[GOAL] ||| <s> [PP/NX,1] </s> ||| <s> [PP/NX,1] </s> ||| 0
+[GOAL] ||| <s> [S\JJR,1] </s> ||| <s> [S\JJR,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/JJS,1] </s> ||| <s> [ADJP/JJS,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/FRAG,1] </s> ||| <s> [SBAR/FRAG,1] </s> ||| 0
+[GOAL] ||| <s> [S\JJS,1] </s> ||| <s> [S\JJS,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP,1] </s> ||| <s> [ADJP,1] </s> ||| 0
+[GOAL] ||| <s> [X/NNP,1] </s> ||| <s> [X/NNP,1] </s> ||| 0
+[GOAL] ||| <s> [WHPP,1] </s> ||| <s> [WHPP,1] </s> ||| 0
+[GOAL] ||| <s> [QP/RB,1] </s> ||| <s> [QP/RB,1] </s> ||| 0
+[GOAL] ||| <s> [X/PRN,1] </s> ||| <s> [X/PRN,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/ADVP,1] </s> ||| <s> [SQ/ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [PP/NP,1] </s> ||| <s> [PP/NP,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP\NN,1] </s> ||| <s> [ADVP\NN,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/DT,1] </s> ||| <s> [SBAR/DT,1] </s> ||| 0
+[GOAL] ||| <s> [SINV/:,1] </s> ||| <s> [SINV/:,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/FRAG,1] </s> ||| <s> [FRAG/FRAG,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/NNP,1] </s> ||| <s> [FRAG/NNP,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/PRP,1] </s> ||| <s> [FRAG/PRP,1] </s> ||| 0
+[GOAL] ||| <s> [NP\CC,1] </s> ||| <s> [NP\CC,1] </s> ||| 0
+[GOAL] ||| <s> [NP\CD,1] </s> ||| <s> [NP\CD,1] </s> ||| 0
+[GOAL] ||| <s> [VP/WRB,1] </s> ||| <s> [VP/WRB,1] </s> ||| 0
+[GOAL] ||| <s> [PRN/NNP,1] </s> ||| <s> [PRN/NNP,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/NNS,1] </s> ||| <s> [FRAG/NNS,1] </s> ||| 0
+[GOAL] ||| <s> [S/RBR,1] </s> ||| <s> [S/RBR,1] </s> ||| 0
+[GOAL] ||| <s> [NP/JJS,1] </s> ||| <s> [NP/JJS,1] </s> ||| 0
+[GOAL] ||| <s> [NP/JJR,1] </s> ||| <s> [NP/JJR,1] </s> ||| 0
+[GOAL] ||| <s> [INTJ\RB,1] </s> ||| <s> [INTJ\RB,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/PRN,1] </s> ||| <s> [FRAG/PRN,1] </s> ||| 0
+[GOAL] ||| <s> [S/NP,1] </s> ||| <s> [S/NP,1] </s> ||| 0
+[GOAL] ||| <s> [S/NN,1] </s> ||| <s> [S/NN,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\PP,1] </s> ||| <s> [SBARQ\PP,1] </s> ||| 0
+[GOAL] ||| <s> [NP/JJ,1] </s> ||| <s> [NP/JJ,1] </s> ||| 0
+[GOAL] ||| <s> [X/ADJP,1] </s> ||| <s> [X/ADJP,1] </s> ||| 0
+[GOAL] ||| <s> ['',1] </s> ||| <s> ['',1] </s> ||| 0
+[GOAL] ||| <s> [PDT,1] </s> ||| <s> [PDT,1] </s> ||| 0
+[GOAL] ||| <s> [NP/IN,1] </s> ||| <s> [NP/IN,1] </s> ||| 0
+[GOAL] ||| <s> [PP/PP,1] </s> ||| <s> [PP/PP,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\SBAR,1] </s> ||| <s> [SBARQ\SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [NAC\NAC,1] </s> ||| <s> [NAC\NAC,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/CD,1] </s> ||| <s> [SBAR/CD,1] </s> ||| 0
+[GOAL] ||| <s> [NP\OOV,1] </s> ||| <s> [NP\OOV,1] </s> ||| 0
+[GOAL] ||| <s> [NAC,1] </s> ||| <s> [NAC,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP\RB,1] </s> ||| <s> [ADJP\RB,1] </s> ||| 0
+[GOAL] ||| <s> [X\WP,1] </s> ||| <s> [X\WP,1] </s> ||| 0
+[GOAL] ||| <s> [S/MD,1] </s> ||| <s> [S/MD,1] </s> ||| 0
+[GOAL] ||| <s> [S\EX,1] </s> ||| <s> [S\EX,1] </s> ||| 0
+[GOAL] ||| <s> [VP/JJS,1] </s> ||| <s> [VP/JJS,1] </s> ||| 0
+[GOAL] ||| <s> [PP\RB,1] </s> ||| <s> [PP\RB,1] </s> ||| 0
+[GOAL] ||| <s> [S\WRB,1] </s> ||| <s> [S\WRB,1] </s> ||| 0
+[GOAL] ||| <s> [VP/JJR,1] </s> ||| <s> [VP/JJR,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/UCP,1] </s> ||| <s> [ADJP/UCP,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/CD,1] </s> ||| <s> [SQ/CD,1] </s> ||| 0
+[GOAL] ||| <s> [PRN/NN,1] </s> ||| <s> [PRN/NN,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/IN,1] </s> ||| <s> [ADVP/IN,1] </s> ||| 0
+[GOAL] ||| <s> [PRN/NP,1] </s> ||| <s> [PRN/NP,1] </s> ||| 0
+[GOAL] ||| <s> [NP\IN,1] </s> ||| <s> [NP\IN,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/RP,1] </s> ||| <s> [SBAR/RP,1] </s> ||| 0
+[GOAL] ||| <s> [X/COMMA,1] </s> ||| <s> [X/COMMA,1] </s> ||| 0
+[GOAL] ||| <s> [S/PP,1] </s> ||| <s> [S/PP,1] </s> ||| 0
+[GOAL] ||| <s> [VP/PRP$,1] </s> ||| <s> [VP/PRP$,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/WHNP,1] </s> ||| <s> [SBAR/WHNP,1] </s> ||| 0
+[GOAL] ||| <s> [NP/PP,1] </s> ||| <s> [NP/PP,1] </s> ||| 0
+[GOAL] ||| <s> [PRN/S,1] </s> ||| <s> [PRN/S,1] </s> ||| 0
+[GOAL] ||| <s> [QP\JJR,1] </s> ||| <s> [QP\JJR,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP\CC,1] </s> ||| <s> [ADVP\CC,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/RB,1] </s> ||| <s> [SBAR/RB,1] </s> ||| 0
+[GOAL] ||| <s> [S/NX,1] </s> ||| <s> [S/NX,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\JJ,1] </s> ||| <s> [SBAR\JJ,1] </s> ||| 0
+[GOAL] ||| <s> [NP/PRN,1] </s> ||| <s> [NP/PRN,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/JJ,1] </s> ||| <s> [ADVP/JJ,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\WHPP,1] </s> ||| <s> [SBARQ\WHPP,1] </s> ||| 0
+[GOAL] ||| <s> [NAC/CD,1] </s> ||| <s> [NAC/CD,1] </s> ||| 0
+[GOAL] ||| <s> [RRC\RRC,1] </s> ||| <s> [RRC\RRC,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/QP,1] </s> ||| <s> [SBAR/QP,1] </s> ||| 0
+[GOAL] ||| <s> [TOP,1] </s> ||| <s> [TOP,1] </s> ||| 0
+[GOAL] ||| <s> [SINV/.,1] </s> ||| <s> [SINV/.,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\IN,1] </s> ||| <s> [SBAR\IN,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP\VBN,1] </s> ||| <s> [ADJP\VBN,1] </s> ||| 0
+[GOAL] ||| <s> [INTJ/UH,1] </s> ||| <s> [INTJ/UH,1] </s> ||| 0
+[GOAL] ||| <s> [NP/NX,1] </s> ||| <s> [NP/NX,1] </s> ||| 0
+[GOAL] ||| <s> [PRN/PP,1] </s> ||| <s> [PRN/PP,1] </s> ||| 0
+[GOAL] ||| <s> [NAC\NNP,1] </s> ||| <s> [NAC\NNP,1] </s> ||| 0
+[GOAL] ||| <s> [S/RB,1] </s> ||| <s> [S/RB,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/NNS,1] </s> ||| <s> [SQ/NNS,1] </s> ||| 0
+[GOAL] ||| <s> [S\JJ,1] </s> ||| <s> [S\JJ,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/PP,1] </s> ||| <s> [SBAR/PP,1] </s> ||| 0
+[GOAL] ||| <s> [NP/NNS,1] </s> ||| <s> [NP/NNS,1] </s> ||| 0
+[GOAL] ||| <s> [NP/NNP,1] </s> ||| <s> [NP/NNP,1] </s> ||| 0
+[GOAL] ||| <s> [NP/PRP,1] </s> ||| <s> [NP/PRP,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/DT,1] </s> ||| <s> [SQ/DT,1] </s> ||| 0
+[GOAL] ||| <s> [PP\TO,1] </s> ||| <s> [PP\TO,1] </s> ||| 0
+[GOAL] ||| <s> [NP\ADJP,1] </s> ||| <s> [NP\ADJP,1] </s> ||| 0
+[GOAL] ||| <s> [NP\FW,1] </s> ||| <s> [NP\FW,1] </s> ||| 0
+[GOAL] ||| <s> [S/RP,1] </s> ||| <s> [S/RP,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/FW,1] </s> ||| <s> [ADVP/FW,1] </s> ||| 0
+[GOAL] ||| <s> [NP/NN,1] </s> ||| <s> [NP/NN,1] </s> ||| 0
+[GOAL] ||| <s> [NP/NP,1] </s> ||| <s> [NP/NP,1] </s> ||| 0
+[GOAL] ||| <s> [INTJ\NN,1] </s> ||| <s> [INTJ\NN,1] </s> ||| 0
+[GOAL] ||| <s> [INTJ/VB,1] </s> ||| <s> [INTJ/VB,1] </s> ||| 0
+[GOAL] ||| <s> [S\IN,1] </s> ||| <s> [S\IN,1] </s> ||| 0
+[GOAL] ||| <s> [NP\-LRB-,1] </s> ||| <s> [NP\-LRB-,1] </s> ||| 0
+[GOAL] ||| <s> [VP/NNPS,1] </s> ||| <s> [VP/NNPS,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\WHNP,1] </s> ||| <s> [SBARQ\WHNP,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/NNP,1] </s> ||| <s> [SQ/NNP,1] </s> ||| 0
+[GOAL] ||| <s> [S/.,1] </s> ||| <s> [S/.,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/PRP,1] </s> ||| <s> [SQ/PRP,1] </s> ||| 0
+[GOAL] ||| <s> [NP/MD,1] </s> ||| <s> [NP/MD,1] </s> ||| 0
+[GOAL] ||| <s> [NP\EX,1] </s> ||| <s> [NP\EX,1] </s> ||| 0
+[GOAL] ||| <s> [S/QP,1] </s> ||| <s> [S/QP,1] </s> ||| 0
+[GOAL] ||| <s> [S/:,1] </s> ||| <s> [S/:,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/NX,1] </s> ||| <s> [SBAR/NX,1] </s> ||| 0
+[GOAL] ||| <s> [NP/ADJP,1] </s> ||| <s> [NP/ADJP,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/NP,1] </s> ||| <s> [SBAR/NP,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/ADJP,1] </s> ||| <s> [FRAG/ADJP,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/NN,1] </s> ||| <s> [SBAR/NN,1] </s> ||| 0
+[GOAL] ||| <s> [S/TO,1] </s> ||| <s> [S/TO,1] </s> ||| 0
+[GOAL] ||| <s> [VP/UCP,1] </s> ||| <s> [VP/UCP,1] </s> ||| 0
+[GOAL] ||| <s> [PP\NP,1] </s> ||| <s> [PP\NP,1] </s> ||| 0
+[GOAL] ||| <s> [S/S,1] </s> ||| <s> [S/S,1] </s> ||| 0
+[GOAL] ||| <s> [QP\RB,1] </s> ||| <s> [QP\RB,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/MD,1] </s> ||| <s> [ADVP/MD,1] </s> ||| 0
+[GOAL] ||| <s> [S\LS,1] </s> ||| <s> [S\LS,1] </s> ||| 0
+[GOAL] ||| <s> [PP/VB,1] </s> ||| <s> [PP/VB,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\WHPP,1] </s> ||| <s> [FRAG\WHPP,1] </s> ||| 0
+[GOAL] ||| <s> [NP/TO,1] </s> ||| <s> [NP/TO,1] </s> ||| 0
+[GOAL] ||| <s> [S/X,1] </s> ||| <s> [S/X,1] </s> ||| 0
+[GOAL] ||| <s> [NP/RRC,1] </s> ||| <s> [NP/RRC,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/RBR,1] </s> ||| <s> [ADVP/RBR,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/NX,1] </s> ||| <s> [ADVP/NX,1] </s> ||| 0
+[GOAL] ||| <s> [PP/VP,1] </s> ||| <s> [PP/VP,1] </s> ||| 0
+[GOAL] ||| <s> [VP\VBD,1] </s> ||| <s> [VP\VBD,1] </s> ||| 0
+[GOAL] ||| <s> [WHADVP\RB,1] </s> ||| <s> [WHADVP\RB,1] </s> ||| 0
+[GOAL] ||| <s> [VP\VBG,1] </s> ||| <s> [VP\VBG,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/NP,1] </s> ||| <s> [ADVP/NP,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/NN,1] </s> ||| <s> [ADVP/NN,1] </s> ||| 0
+[GOAL] ||| <s> [VP\SBAR,1] </s> ||| <s> [VP\SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/NNPS,1] </s> ||| <s> [ADVP/NNPS,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/MD,1] </s> ||| <s> [SBAR/MD,1] </s> ||| 0
+[GOAL] ||| <s> [S/SQ,1] </s> ||| <s> [S/SQ,1] </s> ||| 0
+[GOAL] ||| <s> [UCP/NNS,1] </s> ||| <s> [UCP/NNS,1] </s> ||| 0
+[GOAL] ||| <s> [PP/WP,1] </s> ||| <s> [PP/WP,1] </s> ||| 0
+[GOAL] ||| <s> [UCP/PRP,1] </s> ||| <s> [UCP/PRP,1] </s> ||| 0
+[GOAL] ||| <s> [UCP/NNP,1] </s> ||| <s> [UCP/NNP,1] </s> ||| 0
+[GOAL] ||| <s> [S\NP,1] </s> ||| <s> [S\NP,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/ADJP,1] </s> ||| <s> [SBAR/ADJP,1] </s> ||| 0
+[GOAL] ||| <s> [S\NN,1] </s> ||| <s> [S\NN,1] </s> ||| 0
+[GOAL] ||| <s> [S/VB,1] </s> ||| <s> [S/VB,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP\DT,1] </s> ||| <s> [ADVP\DT,1] </s> ||| 0
+[GOAL] ||| <s> [S/VP,1] </s> ||| <s> [S/VP,1] </s> ||| 0
+[GOAL] ||| <s> [PP\PP,1] </s> ||| <s> [PP\PP,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG,1] </s> ||| <s> [FRAG,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\DT,1] </s> ||| <s> [SBAR\DT,1] </s> ||| 0
+[GOAL] ||| <s> [X\X,1] </s> ||| <s> [X\X,1] </s> ||| 0
+[GOAL] ||| <s> [VP\SYM,1] </s> ||| <s> [VP\SYM,1] </s> ||| 0
+[GOAL] ||| <s> [NP/RP,1] </s> ||| <s> [NP/RP,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/WHPP,1] </s> ||| <s> [SBAR/WHPP,1] </s> ||| 0
+[GOAL] ||| <s> [NAC/SYM,1] </s> ||| <s> [NAC/SYM,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP\CD,1] </s> ||| <s> [ADVP\CD,1] </s> ||| 0
+[GOAL] ||| <s> [INTJ\JJ,1] </s> ||| <s> [INTJ\JJ,1] </s> ||| 0
+[GOAL] ||| <s> [PRN/.,1] </s> ||| <s> [PRN/.,1] </s> ||| 0
+[GOAL] ||| <s> [INTJ/RB,1] </s> ||| <s> [INTJ/RB,1] </s> ||| 0
+[GOAL] ||| <s> [S\MD,1] </s> ||| <s> [S\MD,1] </s> ||| 0
+[GOAL] ||| <s> [S/UH,1] </s> ||| <s> [S/UH,1] </s> ||| 0
+[GOAL] ||| <s> [NP\JJ,1] </s> ||| <s> [NP\JJ,1] </s> ||| 0
+[GOAL] ||| <s> [PRN/SQ,1] </s> ||| <s> [PRN/SQ,1] </s> ||| 0
+[GOAL] ||| <s> [NP/RB,1] </s> ||| <s> [NP/RB,1] </s> ||| 0
+[GOAL] ||| <s> [NP/POS,1] </s> ||| <s> [NP/POS,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\ADJP,1] </s> ||| <s> [FRAG\ADJP,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\SYM,1] </s> ||| <s> [FRAG\SYM,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\WHPP,1] </s> ||| <s> [SBAR\WHPP,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\WP,1] </s> ||| <s> [SBARQ\WP,1] </s> ||| 0
+[GOAL] ||| <s> [PP\QP,1] </s> ||| <s> [PP\QP,1] </s> ||| 0
+[GOAL] ||| <s> [SINV\PRP,1] </s> ||| <s> [SINV\PRP,1] </s> ||| 0
+[GOAL] ||| <s> [PRN/:,1] </s> ||| <s> [PRN/:,1] </s> ||| 0
+[GOAL] ||| <s> [SINV\NNP,1] </s> ||| <s> [SINV\NNP,1] </s> ||| 0
+[GOAL] ||| <s> [NP/QP,1] </s> ||| <s> [NP/QP,1] </s> ||| 0
+[GOAL] ||| <s> [CONJP,1] </s> ||| <s> [CONJP,1] </s> ||| 0
+[GOAL] ||| <s> [RRC,1] </s> ||| <s> [RRC,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP,1] </s> ||| <s> [ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [NP\QP,1] </s> ||| <s> [NP\QP,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/MD,1] </s> ||| <s> [ADJP/MD,1] </s> ||| 0
+[GOAL] ||| <s> [SINV/NNP,1] </s> ||| <s> [SINV/NNP,1] </s> ||| 0
+[GOAL] ||| <s> [UCP/JJ,1] </s> ||| <s> [UCP/JJ,1] </s> ||| 0
+[GOAL] ||| <s> [S\PP,1] </s> ||| <s> [S\PP,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\WHADJP,1] </s> ||| <s> [FRAG\WHADJP,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP\DT,1] </s> ||| <s> [ADJP\DT,1] </s> ||| 0
+[GOAL] ||| <s> [INTJ\INTJ,1] </s> ||| <s> [INTJ\INTJ,1] </s> ||| 0
+[GOAL] ||| <s> [UCP\CD,1] </s> ||| <s> [UCP\CD,1] </s> ||| 0
+[GOAL] ||| <s> [UCP\CC,1] </s> ||| <s> [UCP\CC,1] </s> ||| 0
+[GOAL] ||| <s> [CONJP/IN,1] </s> ||| <s> [CONJP/IN,1] </s> ||| 0
+[GOAL] ||| <s> [UCP\CONJP,1] </s> ||| <s> [UCP\CONJP,1] </s> ||| 0
+[GOAL] ||| <s> [S/-RRB-,1] </s> ||| <s> [S/-RRB-,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/JJ,1] </s> ||| <s> [SQ/JJ,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/ADJP,1] </s> ||| <s> [SQ/ADJP,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\CC,1] </s> ||| <s> [SQ\CC,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\UH,1] </s> ||| <s> [FRAG\UH,1] </s> ||| 0
+[GOAL] ||| <s> [UCP/ADJP,1] </s> ||| <s> [UCP/ADJP,1] </s> ||| 0
+[GOAL] ||| <s> [QP\RBR,1] </s> ||| <s> [QP\RBR,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/COMMA,1] </s> ||| <s> [ADVP/COMMA,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\TO,1] </s> ||| <s> [FRAG\TO,1] </s> ||| 0
+[GOAL] ||| <s> [UCP/IN,1] </s> ||| <s> [UCP/IN,1] </s> ||| 0
+[GOAL] ||| <s> [S/WP,1] </s> ||| <s> [S/WP,1] </s> ||| 0
+[GOAL] ||| <s> [POS,1] </s> ||| <s> [POS,1] </s> ||| 0
+[GOAL] ||| <s> [UCP\WRB,1] </s> ||| <s> [UCP\WRB,1] </s> ||| 0
+[GOAL] ||| <s> [SINV/NNS,1] </s> ||| <s> [SINV/NNS,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/SYM,1] </s> ||| <s> [SBAR/SYM,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/-RRB-,1] </s> ||| <s> [SBAR/-RRB-,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\VB,1] </s> ||| <s> [FRAG\VB,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP\RBR,1] </s> ||| <s> [ADJP\RBR,1] </s> ||| 0
+[GOAL] ||| <s> [NP\NNPS,1] </s> ||| <s> [NP\NNPS,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP\WHADJP,1] </s> ||| <s> [WHNP\WHADJP,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/NX,1] </s> ||| <s> [ADJP/NX,1] </s> ||| 0
+[GOAL] ||| <s> [VP/ADJP,1] </s> ||| <s> [VP/ADJP,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/NN,1] </s> ||| <s> [ADJP/NN,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\NNP,1] </s> ||| <s> [SQ\NNP,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\PRP,1] </s> ||| <s> [SQ\PRP,1] </s> ||| 0
+[GOAL] ||| <s> [NP/VP,1] </s> ||| <s> [NP/VP,1] </s> ||| 0
+[GOAL] ||| <s> [WHPP/NN,1] </s> ||| <s> [WHPP/NN,1] </s> ||| 0
+[GOAL] ||| <s> [X/-RRB-,1] </s> ||| <s> [X/-RRB-,1] </s> ||| 0
+[GOAL] ||| <s> [VP/WHPP,1] </s> ||| <s> [VP/WHPP,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP\RBS,1] </s> ||| <s> [ADJP\RBS,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/NP,1] </s> ||| <s> [ADJP/NP,1] </s> ||| 0
+[GOAL] ||| <s> [VP/POS,1] </s> ||| <s> [VP/POS,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\VBD,1] </s> ||| <s> [FRAG\VBD,1] </s> ||| 0
+[GOAL] ||| <s> [NP/VB,1] </s> ||| <s> [NP/VB,1] </s> ||| 0
+[GOAL] ||| <s> [NP\NN,1] </s> ||| <s> [NP\NN,1] </s> ||| 0
+[GOAL] ||| <s> [NP\PDT,1] </s> ||| <s> [NP\PDT,1] </s> ||| 0
+[GOAL] ||| <s> [NP\NP,1] </s> ||| <s> [NP\NP,1] </s> ||| 0
+[GOAL] ||| <s> [S\QP,1] </s> ||| <s> [S\QP,1] </s> ||| 0
+[GOAL] ||| <s> [PP\CONJP,1] </s> ||| <s> [PP\CONJP,1] </s> ||| 0
+[GOAL] ||| <s> [WHADJP,1] </s> ||| <s> [WHADJP,1] </s> ||| 0
+[GOAL] ||| <s> [NAC/JJ,1] </s> ||| <s> [NAC/JJ,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\S,1] </s> ||| <s> [SQ\S,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\VP,1] </s> ||| <s> [FRAG\VP,1] </s> ||| 0
+[GOAL] ||| <s> [INTJ/NN,1] </s> ||| <s> [INTJ/NN,1] </s> ||| 0
+[GOAL] ||| <s> [S/PRN,1] </s> ||| <s> [S/PRN,1] </s> ||| 0
+[GOAL] ||| <s> [INTJ,1] </s> ||| <s> [INTJ,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\DT,1] </s> ||| <s> [SQ\DT,1] </s> ||| 0
+[GOAL] ||| <s> [S/PRP,1] </s> ||| <s> [S/PRP,1] </s> ||| 0
+[GOAL] ||| <s> [NP\NAC,1] </s> ||| <s> [NP\NAC,1] </s> ||| 0
+[GOAL] ||| <s> [S/NNP,1] </s> ||| <s> [S/NNP,1] </s> ||| 0
+[GOAL] ||| <s> [S\RB,1] </s> ||| <s> [S\RB,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\VBG,1] </s> ||| <s> [FRAG\VBG,1] </s> ||| 0
+[GOAL] ||| <s> [S/NNS,1] </s> ||| <s> [S/NNS,1] </s> ||| 0
+[GOAL] ||| <s> [VP/NNS,1] </s> ||| <s> [VP/NNS,1] </s> ||| 0
+[GOAL] ||| <s> [VP/COMMA,1] </s> ||| <s> [VP/COMMA,1] </s> ||| 0
+[GOAL] ||| <s> [S\TO,1] </s> ||| <s> [S\TO,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/.,1] </s> ||| <s> [ADJP/.,1] </s> ||| 0
+[GOAL] ||| <s> [WHPP/WHPP,1] </s> ||| <s> [WHPP/WHPP,1] </s> ||| 0
+[GOAL] ||| <s> [VP/NNP,1] </s> ||| <s> [VP/NNP,1] </s> ||| 0
+[GOAL] ||| <s> [VP/PRP,1] </s> ||| <s> [VP/PRP,1] </s> ||| 0
+[GOAL] ||| <s> [VP/PRN,1] </s> ||| <s> [VP/PRN,1] </s> ||| 0
+[GOAL] ||| <s> [PRN,1] </s> ||| <s> [PRN,1] </s> ||| 0
+[GOAL] ||| <s> [PRP,1] </s> ||| <s> [PRP,1] </s> ||| 0
+[GOAL] ||| <s> [NNP,1] </s> ||| <s> [NNP,1] </s> ||| 0
+[GOAL] ||| <s> [S\INTJ,1] </s> ||| <s> [S\INTJ,1] </s> ||| 0
+[GOAL] ||| <s> [NNS,1] </s> ||| <s> [NNS,1] </s> ||| 0
+[GOAL] ||| <s> [PP/RBR,1] </s> ||| <s> [PP/RBR,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP\ADJP,1] </s> ||| <s> [ADJP\ADJP,1] </s> ||| 0
+[GOAL] ||| <s> [PRT,1] </s> ||| <s> [PRT,1] </s> ||| 0
+[GOAL] ||| <s> [S\COMMA,1] </s> ||| <s> [S\COMMA,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/:,1] </s> ||| <s> [ADJP/:,1] </s> ||| 0
+[GOAL] ||| <s> [S\UH,1] </s> ||| <s> [S\UH,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/DT,1] </s> ||| <s> [ADVP/DT,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/S,1] </s> ||| <s> [ADJP/S,1] </s> ||| 0
+[GOAL] ||| <s> [S/SBAR,1] </s> ||| <s> [S/SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [NP\RBR,1] </s> ||| <s> [NP\RBR,1] </s> ||| 0
+[GOAL] ||| <s> [NP\RBS,1] </s> ||| <s> [NP\RBS,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/EX,1] </s> ||| <s> [SQ/EX,1] </s> ||| 0
+[GOAL] ||| <s> [NX/CD,1] </s> ||| <s> [NX/CD,1] </s> ||| 0
+[GOAL] ||| <s> [-RRB-,1] </s> ||| <s> [-RRB-,1] </s> ||| 0
+[GOAL] ||| <s> [SINV,1] </s> ||| <s> [SINV,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\WRB,1] </s> ||| <s> [SBARQ\WRB,1] </s> ||| 0
+[GOAL] ||| <s> [SINV\SBAR,1] </s> ||| <s> [SINV\SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\PP,1] </s> ||| <s> [FRAG\PP,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\WHADVP,1] </s> ||| <s> [SBARQ\WHADVP,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/IN,1] </s> ||| <s> [SQ/IN,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP\CD,1] </s> ||| <s> [ADJP\CD,1] </s> ||| 0
+[GOAL] ||| <s> [PRN/SBARQ,1] </s> ||| <s> [PRN/SBARQ,1] </s> ||| 0
+[GOAL] ||| <s> [S\VP,1] </s> ||| <s> [S\VP,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP\CC,1] </s> ||| <s> [ADJP\CC,1] </s> ||| 0
+[GOAL] ||| <s> [SINV/SBARQ,1] </s> ||| <s> [SINV/SBARQ,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/CD,1] </s> ||| <s> [ADVP/CD,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\RB,1] </s> ||| <s> [FRAG\RB,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/JJ,1] </s> ||| <s> [ADJP/JJ,1] </s> ||| 0
+[GOAL] ||| <s> [S/POS,1] </s> ||| <s> [S/POS,1] </s> ||| 0
+[GOAL] ||| <s> [S\ADVP,1] </s> ||| <s> [S\ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\ADVP,1] </s> ||| <s> [SQ\ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\-LRB-,1] </s> ||| <s> [FRAG\-LRB-,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\QP,1] </s> ||| <s> [FRAG\QP,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/NNPS,1] </s> ||| <s> [SBAR/NNPS,1] </s> ||| 0
+[GOAL] ||| <s> [NP\PRP$,1] </s> ||| <s> [NP\PRP$,1] </s> ||| 0
+[GOAL] ||| <s> [UCP/CD,1] </s> ||| <s> [UCP/CD,1] </s> ||| 0
+[GOAL] ||| <s> [S\VB,1] </s> ||| <s> [S\VB,1] </s> ||| 0
+[GOAL] ||| <s> [NP\RB,1] </s> ||| <s> [NP\RB,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/IN,1] </s> ||| <s> [ADJP/IN,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP\PDT,1] </s> ||| <s> [ADJP\PDT,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\JJS,1] </s> ||| <s> [SBAR\JJS,1] </s> ||| 0
+[GOAL] ||| <s> [NP/.,1] </s> ||| <s> [NP/.,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/PRN,1] </s> ||| <s> [ADVP/PRN,1] </s> ||| 0
+[GOAL] ||| <s> [NP/:,1] </s> ||| <s> [NP/:,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\INTJ,1] </s> ||| <s> [SQ\INTJ,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/NNP,1] </s> ||| <s> [ADVP/NNP,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/PRP,1] </s> ||| <s> [ADVP/PRP,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/ADVP,1] </s> ||| <s> [ADVP/ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [JJS,1] </s> ||| <s> [JJS,1] </s> ||| 0
+[GOAL] ||| <s> [SINV\VP,1] </s> ||| <s> [SINV\VP,1] </s> ||| 0
+[GOAL] ||| <s> [JJR,1] </s> ||| <s> [JJR,1] </s> ||| 0
+[GOAL] ||| <s> [NP/ADVP,1] </s> ||| <s> [NP/ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/SQ,1] </s> ||| <s> [SQ/SQ,1] </s> ||| 0
+[GOAL] ||| <s> [PP/SYM,1] </s> ||| <s> [PP/SYM,1] </s> ||| 0
+[GOAL] ||| <s> [SBARQ\WDT,1] </s> ||| <s> [SBARQ\WDT,1] </s> ||| 0
+[GOAL] ||| <s> [S\SYM,1] </s> ||| <s> [S\SYM,1] </s> ||| 0
+[GOAL] ||| <s> [S\WP,1] </s> ||| <s> [S\WP,1] </s> ||| 0
+[GOAL] ||| <s> [WDT,1] </s> ||| <s> [WDT,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP/WHPP,1] </s> ||| <s> [WHNP/WHPP,1] </s> ||| 0
+[GOAL] ||| <s> [ADVP/NNS,1] </s> ||| <s> [ADVP/NNS,1] </s> ||| 0
+[GOAL] ||| <s> [VP/CC,1] </s> ||| <s> [VP/CC,1] </s> ||| 0
+[GOAL] ||| <s> [VP/CD,1] </s> ||| <s> [VP/CD,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/RB,1] </s> ||| <s> [SQ/RB,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/RP,1] </s> ||| <s> [SQ/RP,1] </s> ||| 0
+[GOAL] ||| <s> [UCP\JJ,1] </s> ||| <s> [UCP\JJ,1] </s> ||| 0
+[GOAL] ||| <s> [UCP/RB,1] </s> ||| <s> [UCP/RB,1] </s> ||| 0
+[GOAL] ||| <s> [NP\WP,1] </s> ||| <s> [NP\WP,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/WP,1] </s> ||| <s> [ADJP/WP,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\NN,1] </s> ||| <s> [SQ\NN,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/VB,1] </s> ||| <s> [SQ/VB,1] </s> ||| 0
+[GOAL] ||| <s> [UCP/PP,1] </s> ||| <s> [UCP/PP,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR\S,1] </s> ||| <s> [SBAR\S,1] </s> ||| 0
+[GOAL] ||| <s> [S\-LRB-,1] </s> ||| <s> [S\-LRB-,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/VP,1] </s> ||| <s> [ADJP/VP,1] </s> ||| 0
+[GOAL] ||| <s> [S/COMMA,1] </s> ||| <s> [S/COMMA,1] </s> ||| 0
+[GOAL] ||| <s> [UCP\IN,1] </s> ||| <s> [UCP\IN,1] </s> ||| 0
+[GOAL] ||| <s> [NAC\JJ,1] </s> ||| <s> [NAC\JJ,1] </s> ||| 0
+[GOAL] ||| <s> [NP/S,1] </s> ||| <s> [NP/S,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP\NP,1] </s> ||| <s> [ADJP\NP,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\MD,1] </s> ||| <s> [SQ\MD,1] </s> ||| 0
+[GOAL] ||| <s> [NX\NNP,1] </s> ||| <s> [NX\NNP,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP\NN,1] </s> ||| <s> [ADJP\NN,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/VB,1] </s> ||| <s> [ADJP/VB,1] </s> ||| 0
+[GOAL] ||| <s> [S/UCP,1] </s> ||| <s> [S/UCP,1] </s> ||| 0
+[GOAL] ||| <s> [NP/X,1] </s> ||| <s> [NP/X,1] </s> ||| 0
+[GOAL] ||| <s> [WHNP/WHNP,1] </s> ||| <s> [WHNP/WHNP,1] </s> ||| 0
+[GOAL] ||| <s> [NP\VB,1] </s> ||| <s> [NP\VB,1] </s> ||| 0
+[GOAL] ||| <s> [NP\SBAR,1] </s> ||| <s> [NP\SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/TO,1] </s> ||| <s> [SQ/TO,1] </s> ||| 0
+[GOAL] ||| <s> [NP/FRAG,1] </s> ||| <s> [NP/FRAG,1] </s> ||| 0
+[GOAL] ||| <s> [UCP,1] </s> ||| <s> [UCP,1] </s> ||| 0
+[GOAL] ||| <s> [SINV\RB,1] </s> ||| <s> [SINV\RB,1] </s> ||| 0
+[GOAL] ||| <s> [NAC/NAC,1] </s> ||| <s> [NAC/NAC,1] </s> ||| 0
+[GOAL] ||| <s> [PP/VBD,1] </s> ||| <s> [PP/VBD,1] </s> ||| 0
+[GOAL] ||| <s> [UCP/NN,1] </s> ||| <s> [UCP/NN,1] </s> ||| 0
+[GOAL] ||| <s> [NAC/NP,1] </s> ||| <s> [NAC/NP,1] </s> ||| 0
+[GOAL] ||| <s> [PP/FRAG,1] </s> ||| <s> [PP/FRAG,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG/SBAR,1] </s> ||| <s> [FRAG/SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [PP/VBG,1] </s> ||| <s> [PP/VBG,1] </s> ||| 0
+[GOAL] ||| <s> [UCP/NP,1] </s> ||| <s> [UCP/NP,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP\IN,1] </s> ||| <s> [ADJP\IN,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/PP,1] </s> ||| <s> [ADJP/PP,1] </s> ||| 0
+[GOAL] ||| <s> [PP/VBN,1] </s> ||| <s> [PP/VBN,1] </s> ||| 0
+[GOAL] ||| <s> [PP/VBP,1] </s> ||| <s> [PP/VBP,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\WP,1] </s> ||| <s> [FRAG\WP,1] </s> ||| 0
+[GOAL] ||| <s> [NX\NNS,1] </s> ||| <s> [NX\NNS,1] </s> ||| 0
+[GOAL] ||| <s> [PP/VBZ,1] </s> ||| <s> [PP/VBZ,1] </s> ||| 0
+[GOAL] ||| <s> [NAC/NNPS,1] </s> ||| <s> [NAC/NNPS,1] </s> ||| 0
+[GOAL] ||| <s> [S/NNPS,1] </s> ||| <s> [S/NNPS,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\INTJ,1] </s> ||| <s> [FRAG\INTJ,1] </s> ||| 0
+[GOAL] ||| <s> [NP\VBN,1] </s> ||| <s> [NP\VBN,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/NP,1] </s> ||| <s> [SQ/NP,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/NN,1] </s> ||| <s> [SQ/NN,1] </s> ||| 0
+[GOAL] ||| <s> [PP\PRN,1] </s> ||| <s> [PP\PRN,1] </s> ||| 0
+[GOAL] ||| <s> [VP\$,1] </s> ||| <s> [VP\$,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/VBD,1] </s> ||| <s> [SBAR/VBD,1] </s> ||| 0
+[GOAL] ||| <s> [LST,1] </s> ||| <s> [LST,1] </s> ||| 0
+[GOAL] ||| <s> [NP\VBG,1] </s> ||| <s> [NP\VBG,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/VBG,1] </s> ||| <s> [SBAR/VBG,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/VBN,1] </s> ||| <s> [SBAR/VBN,1] </s> ||| 0
+[GOAL] ||| <s> [NAC/PP,1] </s> ||| <s> [NAC/PP,1] </s> ||| 0
+[GOAL] ||| <s> [FRAG\WHADVP,1] </s> ||| <s> [FRAG\WHADVP,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/VBP,1] </s> ||| <s> [SBAR/VBP,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/VBZ,1] </s> ||| <s> [SBAR/VBZ,1] </s> ||| 0
+[GOAL] ||| <s> [PP/'',1] </s> ||| <s> [PP/'',1] </s> ||| 0
+[GOAL] ||| <s> [NX\CD,1] </s> ||| <s> [NX\CD,1] </s> ||| 0
+[GOAL] ||| <s> [UCP\DT,1] </s> ||| <s> [UCP\DT,1] </s> ||| 0
+[GOAL] ||| <s> [PP/:,1] </s> ||| <s> [PP/:,1] </s> ||| 0
+[GOAL] ||| <s> [S\OOV,1] </s> ||| <s> [S\OOV,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/RP,1] </s> ||| <s> [ADJP/RP,1] </s> ||| 0
+[GOAL] ||| <s> [SQ\IN,1] </s> ||| <s> [SQ\IN,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/RB,1] </s> ||| <s> [ADJP/RB,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP\JJ,1] </s> ||| <s> [ADJP\JJ,1] </s> ||| 0
+[GOAL] ||| <s> [SQ/PP,1] </s> ||| <s> [SQ/PP,1] </s> ||| 0
+[GOAL] ||| <s> [PP/ADVP,1] </s> ||| <s> [PP/ADVP,1] </s> ||| 0
+[GOAL] ||| <s> [SBAR/SBAR,1] </s> ||| <s> [SBAR/SBAR,1] </s> ||| 0
+[GOAL] ||| <s> [NAC/NN,1] </s> ||| <s> [NAC/NN,1] </s> ||| 0
+[GOAL] ||| <s> [ADJP/QP,1] </s> ||| <s> [ADJP/QP,1] </s> ||| 0
+[GOAL] ||| <s> [VP\WRB,1] </s> ||| <s> [VP\WRB,1] </s> ||| 0
+[GOAL] ||| <s> [PP/.,1] </s> ||| <s> [PP/.,1] </s> ||| 0
+[GOAL] ||| <s> [S/JJR,1] </s> ||| <s> [S/JJR,1] </s> ||| 0
+[GOAL] ||| <s> [S/JJS,1] </s> ||| <s> [S/JJS,1] </s> ||| 0
