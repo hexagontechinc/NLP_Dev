@@ -1,0 +1,12 @@
+This Apache Joshua language pack was trained on the following parallel corpora, with a 5-gram 
+language model built over the English Gigword and target side text, and a paraphrase grammar 
+from the Paraphrase Database.
+
+- English Gigaword 5th Edition
+  https://catalog.ldc.upenn.edu/LDC2011T07
+- Multiple-Translation Chinese Corpus
+  https://catalog.ldc.upenn.edu/LDC2002T01
+- Newsela Corpus
+  https://newsela.com/data/
+- Paraphrase Database 2.0
+  http://paraphrase.org/
